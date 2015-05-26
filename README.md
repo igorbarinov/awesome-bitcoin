@@ -7,6 +7,7 @@ List of content
 - [Utilities](#utilities)
 - [Blockchain API and Web service](#blockchain-api-and-web-services)
 - [Wallets API](#wallets-api)
+- [Chain Explorers](#chain-explorers)
 
 
 # Utilities
@@ -21,5 +22,6 @@ List of content
 
 # Wallets API
 * [BitGo](https://www.bitgo.com/api/)
-* [Coinbase](https://www.coinbase.com)
+* [Coinbase](https://developers.coinbase.com)
+* [Blockchain.info](https://blockchain.info/api)
 
