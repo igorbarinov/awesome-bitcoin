@@ -9,7 +9,7 @@ List of content
 - [Wallets API](#wallets-api)
 - [Blockchain Explorers](#blockchain-explorers)
 - [Javascript Libraries](#javascript-libraries)
-- [Scripting](#scripting)
+- [Playgrounds](#playgrounds)
 
 
 # Utilities
@@ -39,6 +39,6 @@ List of content
 * [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
 * [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin)
 
-# Scripting
+# Playgrounds
 * [Script Playground](http://www.crmarsh.com/script-playground/)
-
+* [Bitcore Playground](http://bitcore.io/playground)
