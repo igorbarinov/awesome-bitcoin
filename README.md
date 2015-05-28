@@ -9,6 +9,7 @@ List of content
 - [Wallets API](#wallets-api)
 - [Blockchain Explorers](#blockchain-explorers)
 - [Javascript Libraries](#javascript-libraries)
+- [Scripting](#scripting)
 
 
 # Utilities
@@ -26,6 +27,7 @@ List of content
 * [BitGo](https://www.bitgo.com/api/)
 * [Coinbase](https://developers.coinbase.com)
 * [Blockchain.info](https://blockchain.info/api)
+* [BIP32](http://bip32.org)
 
 # Blockchain Explorers
 * [Chain.so](http://chain.so)
@@ -36,4 +38,7 @@ List of content
 * [Bitcore](https://github.com/bitpay/bitcore)
 * [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
 * [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin)
+
+# Scripting
+* [Script Playground](http://www.crmarsh.com/script-playground/)
 
