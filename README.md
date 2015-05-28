@@ -22,6 +22,7 @@ List of content
 * [BlockCypher](http://www.blockcypher.com)
 * [Gem.co](https://gem.co)
 * [Insight](https://insight.is)
+* [Chain.com](https://chain.com)
 
 # Wallets API
 * [BitGo](https://www.bitgo.com/api/)
