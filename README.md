@@ -8,6 +8,7 @@ List of content
 - [Blockchain API and Web service](#blockchain-api-and-web-services)
 - [Wallets API](#wallets-api)
 - [Blockchain Explorers](#blockchain-explorers)
+- [Javascript Libraries](#javascript-libraries)
 
 
 # Utilities
@@ -30,5 +31,9 @@ List of content
 * [Chain.so](http://chain.so)
 * [Blockchain.info](https://blockchain.info)
 * [BlockTrail](https://www.blocktrail.com/BTC) 
-
+* 
+# Javascript Libraries
+* [Bitcore](https://github.com/bitpay/bitcore)
+* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
+* [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin)
 
