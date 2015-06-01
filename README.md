@@ -23,6 +23,7 @@ List of content
 * [Gem.co](https://gem.co)
 * [Insight](https://insight.is)
 * [Chain.com](https://chain.com)
+* [Toshi by Coinbase](https://toshi.io/)
 
 # Wallets API
 * [BitGo](https://www.bitgo.com/api/)
