@@ -29,6 +29,10 @@ List of content
 * [Coinbase](https://developers.coinbase.com)
 * [Blockchain.info](https://blockchain.info/api)
 * [BIP32](http://bip32.org)
+* 
+# Open Source Wallets
+* [CoPay by BitPay](https://copay.io/)
+* [CoinPunk](https://coinpunk.com/)
 
 # Blockchain Explorers
 * [Chain.so](http://chain.so)
