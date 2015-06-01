@@ -55,3 +55,4 @@ List of content
 * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook)
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+Created by [BlockchainU](http://www.blockchainu.co) fellows.
