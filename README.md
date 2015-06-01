@@ -53,3 +53,5 @@ List of content
 
 # Books
 * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook)
+
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
