@@ -43,3 +43,6 @@ List of content
 # Playgrounds
 * [Script Playground](http://www.crmarsh.com/script-playground/)
 * [Bitcore Playground](http://bitcore.io/playground)
+
+# Book
+* [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook)
