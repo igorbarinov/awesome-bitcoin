@@ -7,9 +7,11 @@ List of content
 - [Utilities](#utilities)
 - [Blockchain API and Web service](#blockchain-api-and-web-services)
 - [Wallets API](#wallets-api)
+- [Opensource wallets](#opensource-wallets)
 - [Blockchain Explorers](#blockchain-explorers)
 - [Javascript Libraries](#javascript-libraries)
 - [Playgrounds](#playgrounds)
+- [Books](#books)
 
 
 # Utilities
@@ -30,7 +32,7 @@ List of content
 * [Coinbase](https://developers.coinbase.com)
 * [Blockchain.info](https://blockchain.info/api)
 * [BIP32](http://bip32.org)
-* 
+
 # Open Source Wallets
 * [CoPay by BitPay](https://copay.io/)
 * [CoinPunk](https://coinpunk.com/)
@@ -49,5 +51,5 @@ List of content
 * [Script Playground](http://www.crmarsh.com/script-playground/)
 * [Bitcore Playground](http://bitcore.io/playground)
 
-# Book
+# Books
 * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook)
