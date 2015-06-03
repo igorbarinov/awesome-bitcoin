@@ -10,6 +10,7 @@ List of content
 - [Opensource wallets](#opensource-wallets)
 - [Blockchain Explorers](#blockchain-explorers)
 - [Javascript Libraries](#javascript-libraries)
+- [PHP Libraries](#php-libraries)
 - [Playgrounds](#playgrounds)
 - [Books](#books)
 
@@ -46,6 +47,9 @@ List of content
 * [Bitcore](https://github.com/bitpay/bitcore)
 * [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
 * [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin)
+
+# PHP Libraries
+* [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN)
 
 # Playgrounds
 * [Script Playground](http://www.crmarsh.com/script-playground/)
