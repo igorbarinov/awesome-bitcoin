@@ -55,7 +55,10 @@ List of content
 * [Script Playground](http://www.crmarsh.com/script-playground/)
 * [Bitcore Playground](http://bitcore.io/playground)
 
-# Books
+# Blockchain dump
+* [WebBTC](http://dumps.webbtc.com/bitcoin/)
+
+#Books
 * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook)
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
