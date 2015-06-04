@@ -51,6 +51,9 @@ List of content
 # PHP Libraries
 * [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN)
 
+# Ruby Libraries
+* [Bitcoin-ruby](https://github.com/lian/bitcoin-ruby)
+
 # Playgrounds
 * [Script Playground](http://www.crmarsh.com/script-playground/)
 * [Bitcore Playground](http://bitcore.io/playground)
