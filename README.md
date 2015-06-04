@@ -11,6 +11,7 @@ List of content
 - [Blockchain Explorers](#blockchain-explorers)
 - [Javascript Libraries](#javascript-libraries)
 - [PHP Libraries](#php-libraries)
+- [Ruby Libraries](#ruby-libraries)
 - [Playgrounds](#playgrounds)
 - [Books](#books)
 
