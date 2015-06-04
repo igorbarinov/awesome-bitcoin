@@ -12,6 +12,7 @@ List of content
 - [Javascript Libraries](#javascript-libraries)
 - [PHP Libraries](#php-libraries)
 - [Ruby Libraries](#ruby-libraries)
+- [Python Libraries](#python-libraries)
 - [Playgrounds](#playgrounds)
 - [Books](#books)
 
@@ -48,12 +49,17 @@ List of content
 * [Bitcore](https://github.com/bitpay/bitcore)
 * [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
 * [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin)
+* [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs)
 
 # PHP Libraries
 * [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN)
+* [BlockTrain PHP SDK](https://github.com/blocktrail/blocktrail-sdk-php)
 
 # Ruby Libraries
 * [Bitcoin-ruby](https://github.com/lian/bitcoin-ruby)
+
+# Python Libraries
+* [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python)
 
 # Playgrounds
 * [Script Playground](http://www.crmarsh.com/script-playground/)
