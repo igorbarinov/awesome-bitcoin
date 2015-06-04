@@ -62,6 +62,9 @@ List of content
 # Blockchain dump
 * [WebBTC](http://dumps.webbtc.com/bitcoin/)
 
+# Full nodes
+* [Bitcoinjs-server](https://github.com/bitcoinjs/bitcoinjs-server)
+
 #Books
 * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook)
 
