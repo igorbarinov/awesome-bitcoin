@@ -70,8 +70,9 @@ List of content
 
 # Full nodes
 * [Bitcoinjs-server](https://github.com/bitcoinjs/bitcoinjs-server)
+* [Bitcoin-ruby-node](https://github.com/mhanne/bitcoin-ruby-node)
 
-#Books
+# Books
 * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook)
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
