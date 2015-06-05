@@ -44,6 +44,7 @@ List of content
 * [Chain.so](http://chain.so)
 * [Blockchain.info](https://blockchain.info)
 * [BlockTrail](https://www.blocktrail.com/BTC) 
+* [Blockr](https://blockr.io)
 
 # Javascript Libraries
 * [Bitcore](https://github.com/bitpay/bitcore)
