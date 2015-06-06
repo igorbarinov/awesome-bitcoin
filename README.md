@@ -14,7 +14,7 @@ List of content
 - [Ruby Libraries](#ruby-libraries)
 - [Python Libraries](#python-libraries)
 - [Playgrounds](#playgrounds)
-- [Books](#books)
+- [Read](#read)
 
 
 # Utilities
@@ -73,8 +73,9 @@ List of content
 * [Bitcoinjs-server](https://github.com/bitcoinjs/bitcoinjs-server)
 * [Bitcoin-ruby-node](https://github.com/mhanne/bitcoin-ruby-node)
 
-# Books
+# Read
 * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook)
+* [Bitcoin Stackexchange](http://bitcoin.stackexchange.com)
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 Created by [BlockchainU](http://www.blockchainu.co) fellows.
