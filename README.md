@@ -39,6 +39,7 @@ List of content
 # Open Source Wallets
 * [CoPay by BitPay](https://copay.io/)
 * [CoinPunk](https://coinpunk.com/)
+* [Coinb.in](https://coinb.in)
 
 # Blockchain Explorers
 * [Chain.so](http://chain.so)
