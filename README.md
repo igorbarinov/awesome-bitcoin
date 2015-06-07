@@ -77,6 +77,7 @@ List of content
 # Read
 * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook)
 * [Bitcoin Stackexchange](http://bitcoin.stackexchange.com)
+* [Elliptic Curve Cryptography A Genle Introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 Created by [BlockchainU](http://www.blockchainu.co) fellows.
