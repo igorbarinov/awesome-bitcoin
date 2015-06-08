@@ -13,6 +13,7 @@ List of content
 - [PHP Libraries](#php-libraries)
 - [Ruby Libraries](#ruby-libraries)
 - [Python Libraries](#python-libraries)
+- [Java Libraries](#java-libraries)
 - [Playgrounds](#playgrounds)
 - [Read](#read)
 
@@ -62,6 +63,9 @@ List of content
 
 # Python Libraries
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python)
+
+# Java Libraries
+* [BitcoinJ](https://bitcoinj.github.io)
 
 # Playgrounds
 * [Script Playground](http://www.crmarsh.com/script-playground/)
