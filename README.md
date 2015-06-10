@@ -73,6 +73,9 @@ List of content
 
 # Blockchain dump
 * [WebBTC](http://dumps.webbtc.com/bitcoin/)
+* [BitcoinDatabaseGenerator](https://github.com/ladimolnar/BitcoinDatabaseGenerator)
+* [Blockparser+SQL](https://github.com/mcdee/blockparser)
+* [BitcoinABE](https://github.com/bitcoin-abe/bitcoin-abe)
 
 # Full nodes
 * [Bitcoinjs-server](https://github.com/bitcoinjs/bitcoinjs-server)
