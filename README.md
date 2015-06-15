@@ -67,6 +67,9 @@ List of content
 # Java Libraries
 * [BitcoinJ](https://bitcoinj.github.io)
 
+# .Net Libraries
+* [NBitcoin](https://github.com/NicolasDorier/NBitcoin)
+
 # Playgrounds
 * [Script Playground](http://www.crmarsh.com/script-playground/)
 * [Bitcore Playground](http://bitcore.io/playground)
