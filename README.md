@@ -47,6 +47,7 @@ List of content
 * [Blockchain.info](https://blockchain.info)
 * [BlockTrail](https://www.blocktrail.com/BTC) 
 * [Blockr](https://blockr.io)
+* [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer)
 
 # Javascript Libraries
 * [Bitcore](https://github.com/bitpay/bitcore)
