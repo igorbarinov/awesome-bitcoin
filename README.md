@@ -83,9 +83,11 @@ List of content
 * [BitcoinABE](https://github.com/bitcoin-abe/bitcoin-abe)
 
 # Full nodes
-* [Bitcoinjs-server](https://github.com/bitcoinjs/bitcoinjs-server)
-* [Bitcoin-ruby-node](https://github.com/mhanne/bitcoin-ruby-node)
-* [Toshi by Coinbase](https://toshi.io/)
+* [Bitcoinjs-server](https://github.com/bitcoinjs/bitcoinjs-server) Bitcoin network node in JavaScript using Node.js / LevelDB
+* [Bitcoin-ruby-node](https://github.com/mhanne/bitcoin-ruby-node) bitcoin node based on bitcoin-ruby-blockchain
+* [Toshi by Coinbase](https://toshi.io/) An open source Bitcoin node built to power large scale web applications
+* [Fullnode](https://github.com/ryanxcharles/fullnode) Javascript implementation of bitcoin
+* [Insight API](https://github.com/bitpay/insight-api) A bitcoin blockchain API for web wallets
 
 # Read
 * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook)
