@@ -22,6 +22,7 @@ List of content
 * [Pycoin](https://github.com/richardkiss/pycoin)
 * [tx](https://github.com/spesmilo/sx/)
 * [bx](https://github.com/libbitcoin/libbitcoin-explorer)
+* [txwatcher](https://github.com/tsileo/txwatcher)A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
 
 # Blockchain API and Web services
 * [block.io](https://block.io)
