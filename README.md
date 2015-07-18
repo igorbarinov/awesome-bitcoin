@@ -66,6 +66,7 @@ List of content
 
 # Python Libraries
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python)
+* [btctxstore](https://github.com/F483/btctxstore) simple library to store/retrieve information in bitcoin transactions using OP_RETURN
 
 # Java Libraries
 * [BitcoinJ](https://bitcoinj.github.io)
