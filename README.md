@@ -23,6 +23,7 @@ List of content
 * [tx](https://github.com/spesmilo/sx/)
 * [bx](https://github.com/libbitcoin/libbitcoin-explorer)
 * [txwatcher](https://github.com/tsileo/txwatcher)A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
+* [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
 
 # Blockchain API and Web services
 * [block.io](https://block.io)
