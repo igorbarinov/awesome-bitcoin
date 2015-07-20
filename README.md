@@ -91,6 +91,7 @@ List of content
 * [Toshi by Coinbase](https://toshi.io/) An open source Bitcoin node built to power large scale web applications
 * [Fullnode](https://github.com/ryanxcharles/fullnode) Javascript implementation of bitcoin
 * [Insight API](https://github.com/bitpay/insight-api) A bitcoin blockchain API for web wallets
+* [Bitcoind.JS](https://github.com/bitpay/bitcoind.js) bitcoind linked to node.js by BitPay
 
 # Read
 * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook)
