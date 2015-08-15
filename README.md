@@ -8,7 +8,7 @@ List of content
 - [Utilities](#utilities)
 - [Blockchain API and Web service](#blockchain-api-and-web-services)
 - [Wallets API](#wallets-api)
-- [Opensource wallets](#opensource-wallets)
+- [Opensource wallets](#open-source-wallets)
 - [Blockchain Explorers](#blockchain-explorers)
 - [Javascript Libraries](#javascript-libraries)
 - [PHP Libraries](#php-libraries)
