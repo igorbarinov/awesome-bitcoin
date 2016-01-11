@@ -54,7 +54,7 @@ List of content
 * [Blockexplorer.com](https://github.com/lirazsiri/blockexplorer)
 
 # Javascript Libraries
-* [Bitcore](https://github.com/bitpay/bitcore)
+* [Bitcore Library](https://github.com/bitpay/bitcore-lib)
 * [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
 * [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin)
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs)
@@ -93,6 +93,7 @@ List of content
 * [Fullnode](https://github.com/ryanxcharles/fullnode) Javascript implementation of bitcoin
 * [Insight API](https://github.com/bitpay/insight-api) A bitcoin blockchain API for web wallets
 * [Bitcoind.JS](https://github.com/bitpay/bitcoind.js) bitcoind linked to node.js by BitPay
+* [Bitcore](https://github.com/bitpay/bitcore) Formerly just a Nodejs library, now a full node
 
 # Read
 * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook)
