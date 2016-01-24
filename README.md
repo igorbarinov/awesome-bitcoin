@@ -74,7 +74,9 @@ List of content
 * [BitcoinJ](https://bitcoinj.github.io)
 
 # .Net Libraries
-* [NBitcoin](https://github.com/MetacoSA/NBitcoin)
+* [NBitcoin](https://github.com/MetacoSA/NBitcoin)Comprehensive Bitcoin library for the .NET framework.
+* [BitcoinLib](https://github.com/GeorgeKimionis/BitcoinLib) The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
+* [QBitNinja](https://github.com/MetacoSA/QBitNinja) An Open Source and powerful blockchain API
 
 # Playgrounds
 * [Script Playground](http://www.crmarsh.com/script-playground/)
@@ -85,6 +87,7 @@ List of content
 * [BitcoinDatabaseGenerator](https://github.com/ladimolnar/BitcoinDatabaseGenerator) A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database
 * [Blockparser+SQL](https://github.com/mcdee/blockparser) Fast, quick and dirty bitcoin blockchain parser
 * [BitcoinABE](https://github.com/bitcoin-abe/bitcoin-abe) Abe: block browser for Bitcoin and similar currencies
+* [NBitcoin.Indexer](https://github.com/MetacoSA/NBitcoin.Indexer) Scalable and fault-tolerant block chain indexer for Azure cloud platform.
 
 # Full nodes
 * [Bitcoinjs-server](https://github.com/bitcoinjs/bitcoinjs-server) Bitcoin network node in JavaScript using Node.js / LevelDB
