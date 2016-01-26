@@ -80,6 +80,8 @@ List of content
 
 # Playgrounds
 * [Script Playground](http://www.crmarsh.com/script-playground/)
+* [Bitcoin IDE](http://www.cs.princeton.edu/~tongbinw/bitcoinIDE/build/editor.html) Bitcoin Script for dummies
+* [Debug Script Execution](https://webbtc.com/script)
 * [Bitcore Playground](https://bitcore.io/playground/)
 
 # Blockchain dump
