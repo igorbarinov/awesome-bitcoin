@@ -44,6 +44,7 @@ List of content
 * [CoPay by BitPay](https://copay.io/)
 * [CoinPunk](https://coinpunk.com/)
 * [Coinb.in](https://coinb.in)
+* [Electrum](https://electrum.org/)
 
 # Blockchain Explorers
 * [Chain.so](http://chain.so)
