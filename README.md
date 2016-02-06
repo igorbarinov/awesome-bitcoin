@@ -62,7 +62,7 @@ List of content
 
 # PHP Libraries
 * [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN)
-* [BlockTrain PHP SDK](https://github.com/blocktrail/blocktrail-sdk-php)
+* [BlockTrail PHP SDK](https://github.com/blocktrail/blocktrail-sdk-php)
 
 # Ruby Libraries
 * [Bitcoin-ruby](https://github.com/lian/bitcoin-ruby)
