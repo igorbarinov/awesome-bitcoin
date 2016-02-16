@@ -10,7 +10,7 @@ List of content
 - [Wallets API](#wallets-api)
 - [Opensource wallets](#open-source-wallets)
 - [Blockchain Explorers](#blockchain-explorers)
-- [Javascript Libraries](#javascript-libraries)
+- [JavaScript Libraries](#javascript-libraries)
 - [PHP Libraries](#php-libraries)
 - [Ruby Libraries](#ruby-libraries)
 - [Python Libraries](#python-libraries)
@@ -54,7 +54,8 @@ List of content
 * [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer)
 * [Blockexplorer.com](https://github.com/bitcoin-blockexplorer/old-blockexplorer-php)
 
-# Javascript Libraries
+# JavaScript Libraries
+* [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
 * [Bitcore Library](https://github.com/bitpay/bitcore-lib)
 * [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
 * [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin)
