@@ -33,6 +33,7 @@ List of content
 * [Insight](https://insight.is)
 * [Chain.com](https://chain.com)
 * [Toshi by Coinbase](https://toshi.io/)
+* [Smartbit](https://www.smartbit.com.au)
 
 # Wallets API
 * [BitGo](https://www.bitgo.com/api/)
@@ -53,6 +54,7 @@ List of content
 * [Blockr](https://blockr.io)
 * [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer)
 * [Blockexplorer.com](https://github.com/bitcoin-blockexplorer/old-blockexplorer-php)
+* [Smartbit](https://www.smartbit.com.au)
 
 # Javascript Libraries
 * [Bitcore Library](https://github.com/bitpay/bitcore-lib)
