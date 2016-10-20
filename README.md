@@ -96,6 +96,7 @@ List of content
 * [Blockparser+SQL](https://github.com/mcdee/blockparser) Fast, quick and dirty bitcoin blockchain parser
 * [BitcoinABE](https://github.com/bitcoin-abe/bitcoin-abe) Abe: block browser for Bitcoin and similar currencies
 * [NBitcoin.Indexer](https://github.com/MetacoSA/NBitcoin.Indexer) Scalable and fault-tolerant block chain indexer for Azure cloud platform.
+* [Blockchain-stuff](https://github.com/McFrankline/Blockchain-stuff) Blockchain and Crytocurrency Resources
 
 # Full nodes
 * [Bitcoinjs-server](https://github.com/bitcoinjs/bitcoinjs-server) Bitcoin network node in JavaScript using Node.js / LevelDB
