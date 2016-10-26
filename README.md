@@ -77,6 +77,7 @@ List of content
 
 # Java Libraries
 * [BitcoinJ](https://bitcoinj.github.io)
+* [XChange](https://github.com/timmolter/XChange) Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
 
 # .Net Libraries
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin)Comprehensive Bitcoin library for the .NET framework.
