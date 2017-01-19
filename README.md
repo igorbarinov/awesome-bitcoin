@@ -56,7 +56,7 @@ List of content
 * [Blockchain.info](https://blockchain.info)
 * [BlockTrail](https://www.blocktrail.com/BTC) 
 * [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer)
-* [Blockexplorer.com](https://github.com/bitcoin-blockexplorer/old-blockexplorer-php)
+* [Blockexplorer.com](https://blockexplorer.com)
 * [Smartbit](https://www.smartbit.com.au)
 
 # C++ Libraries
