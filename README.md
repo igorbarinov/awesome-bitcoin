@@ -21,6 +21,7 @@ List of content
 
 
 # Utilities
+* [BitKey](https://bitkey.io) Live USB for airgapped transactions and Bitcoin swiss army knife 
 * [Pycoin](https://github.com/richardkiss/pycoin) Python-based Bitcoin and alt-coin utility library.
 * [sx](https://github.com/spesmilo/sx/) sx - command line Bitcoin to empower the sysadmin
 * [bx](https://github.com/libbitcoin/libbitcoin-explorer) Bitcoin Command Line Tool
