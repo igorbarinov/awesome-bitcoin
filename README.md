@@ -54,7 +54,7 @@ List of content
 * [BlockTrail](https://www.blocktrail.com/BTC) 
 * [Blockr](https://blockr.io)
 * [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer)
-* [Blockexplorer.com](https://github.com/bitcoin-blockexplorer/old-blockexplorer-php)
+* [Blockexplorer.com](https://blockexplorer.com)
 * [Smartbit](https://www.smartbit.com.au)
 
 # JavaScript Libraries
