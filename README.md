@@ -75,6 +75,8 @@ List of content
 # Python Libraries
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python)
 * [btctxstore](https://github.com/F483/btctxstore) simple library to store/retrieve information in bitcoin transactions using OP_RETURN
+* [Pybitcointools, easy and fast general tools](https://github.com/vbuterin/pybitcointools)
+* [Bitcoinlib - complete tool, few documentation](https://github.com/petertodd/python-bitcoinlib)
 
 # Java Libraries
 * [BitcoinJ](https://bitcoinj.github.io)
@@ -113,6 +115,7 @@ List of content
 * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook)
 * [Bitcoin Stackexchange](http://bitcoin.stackexchange.com)
 * [Elliptic Curve Cryptography A Gentle Introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
+* [General technical introduction](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 Created by [BlockchainU](http://blockchainu.co/) fellows.
