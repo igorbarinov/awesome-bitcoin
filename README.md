@@ -35,7 +35,7 @@ List of content
 * [Chain.com](https://chain.com)
 * [Toshi by Coinbase](https://toshi.io/)
 * [Smartbit](https://www.smartbit.com.au)
-* [Cashier-BTC] (https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway.
+* [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway.
 
 # Wallets API
 * [BitGo](https://www.bitgo.com/api/)
