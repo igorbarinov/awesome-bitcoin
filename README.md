@@ -36,6 +36,7 @@ List of content
 * [Toshi by Coinbase](https://toshi.io/)
 * [Smartbit](https://www.smartbit.com.au)
 * [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway.
+* [Chainradar API](https://github.com/yasaricli/chainradar-api) Blockchain Explorer API for Chainradar
 
 # Wallets API
 * [BitGo](https://www.bitgo.com/api/)
@@ -111,7 +112,6 @@ List of content
 * [Insight API](https://github.com/bitpay/insight-api) A bitcoin blockchain API for web wallets
 * [Bitcoind.JS](https://github.com/bitpay/bitcoind.js) bitcoind linked to node.js by BitPay
 * [Bitcore](https://github.com/bitpay/bitcore) Formerly just a Nodejs library, now a full node
-* [Chainradar API](https://github.com/yasaricli/chainradar-api) Blockchain Explorer API for Chainradar
 
 # Read
 * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook)
