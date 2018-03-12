@@ -10,6 +10,7 @@ List of content
 - [Wallets API](#wallets-api)
 - [Opensource wallets](#open-source-wallets)
 - [Blockchain Explorers](#blockchain-explorers)
+- [C++ Libraries](#c++-libraries)
 - [JavaScript Libraries](#javascript-libraries)
 - [PHP Libraries](#php-libraries)
 - [Ruby Libraries](#ruby-libraries)
@@ -54,10 +55,12 @@ List of content
 * [Chain.so](http://chain.so)
 * [Blockchain.info](https://blockchain.info)
 * [BlockTrail](https://www.blocktrail.com/BTC) 
-* [Blockr](https://blockr.io)
 * [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer)
 * [Blockexplorer.com](https://github.com/bitcoin-blockexplorer/old-blockexplorer-php)
 * [Smartbit](https://www.smartbit.com.au)
+
+# C++ Libraries
+* [Libbitcoin](https://libbitcoin.org/)
 
 # JavaScript Libraries
 * [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
@@ -94,6 +97,7 @@ List of content
 * [Script Playground](http://www.crmarsh.com/script-playground/)
 * [Bitcoin IDE](http://www.cs.princeton.edu/~tongbinw/bitcoinIDE/build/editor.html) Bitcoin Script for dummies
 * [Debug Script Execution](https://webbtc.com/script)
+* [Script Debugger](https://github.com/kallewoof/btcdeb)
 * [Bitcore Playground](https://bitcore.io/playground/)
 * [Mnemonic Code generator](https://dcpos.github.io/bip39/)
 * [blockchain-demo](https://github.com/anders94/blockchain-demo/) A web-based demonstration of blockchain concepts
@@ -104,6 +108,7 @@ List of content
 * [Blockparser+SQL](https://github.com/mcdee/blockparser) Fast, quick and dirty bitcoin blockchain parser
 * [BitcoinABE](https://github.com/bitcoin-abe/bitcoin-abe) Abe: block browser for Bitcoin and similar currencies
 * [NBitcoin.Indexer](https://github.com/MetacoSA/NBitcoin.Indexer) Scalable and fault-tolerant block chain indexer for Azure cloud platform.
+* [Blockchain2Graph](https://github.com/straumat/blockchain2graph) Graph Database Builder
 
 # Full nodes
 * [Bitcoinjs-server](https://github.com/bitcoinjs/bitcoinjs-server) Bitcoin network node in JavaScript using Node.js / LevelDB
