@@ -59,6 +59,7 @@ List of content
 * [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer)
 * [Blockexplorer.com](https://blockexplorer.com)
 * [Smartbit](https://www.smartbit.com.au)
+* [Bitkit](https://bitkit.live) - Real time transaction updates
 
 # C++ Libraries
 * [Libbitcoin](https://libbitcoin.org/)
