@@ -10,7 +10,7 @@ List of content
 - [Wallets API](#wallets-api)
 - [Opensource wallets](#open-source-wallets)
 - [Blockchain Explorers](#blockchain-explorers)
-- [C++ Libraries](#c++-libraries)
+- [C++ Libraries](#c-libraries)
 - [JavaScript Libraries](#javascript-libraries)
 - [PHP Libraries](#php-libraries)
 - [Ruby Libraries](#ruby-libraries)
