@@ -63,6 +63,7 @@ List of content
 
 # C++ Libraries
 * [Libbitcoin](https://libbitcoin.org/)
+* [libwally-core](https://github.com/ElementsProject/libwally-core)
 
 # JavaScript Libraries
 * [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
