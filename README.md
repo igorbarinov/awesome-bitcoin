@@ -63,6 +63,7 @@ List of content
 
 # C++ Libraries
 * [Libbitcoin](https://libbitcoin.org/)
+* [secp256k1](https://github.com/bitcoin-core/secp256k1)
 
 # JavaScript Libraries
 * [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
