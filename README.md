@@ -10,7 +10,7 @@ List of content
 - [Wallets API](#wallets-api)
 - [Opensource wallets](#open-source-wallets)
 - [Blockchain Explorers](#blockchain-explorers)
-- [C++ Libraries](#c++-libraries)
+- [C++ Libraries](#c-libraries)
 - [JavaScript Libraries](#javascript-libraries)
 - [PHP Libraries](#php-libraries)
 - [Ruby Libraries](#ruby-libraries)
@@ -64,6 +64,7 @@ List of content
 # C++ Libraries
 * [Libbitcoin](https://libbitcoin.org/)
 * [libwally-core](https://github.com/ElementsProject/libwally-core)
+* [secp256k1](https://github.com/bitcoin-core/secp256k1)
 
 # JavaScript Libraries
 * [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
