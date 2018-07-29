@@ -63,6 +63,7 @@ List of content
 
 # C++ Libraries
 * [Libbitcoin](https://libbitcoin.org/)
+* [libwally-core](https://github.com/ElementsProject/libwally-core)
 * [secp256k1](https://github.com/bitcoin-core/secp256k1)
 
 # JavaScript Libraries
