@@ -17,6 +17,7 @@ List of content
 - [Java Libraries](#java-libraries)
 - [Playgrounds](#playgrounds)
 - [Read](#read)
+- [Course](#course)
 
 
 # Utilities
@@ -120,6 +121,9 @@ List of content
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 Created by [BlockchainU](http://blockchainu.co/) fellows.
+
+# Course
+* [Bitcoin & Cryptocurrency](http://bitcoinbook.cs.princeton.edu/)
 
 ## License
 
