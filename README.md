@@ -135,6 +135,9 @@ List of content
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 Created by [BlockchainU](http://blockchainu.co/) fellows.
 
+# Video
+* [Ethereum DApps in Motion](https://www.manning.com/livevideo/ethereum-dapps-in-motion)
+
 # Course
 * [Bitcoin & Cryptocurrency](http://bitcoinbook.cs.princeton.edu/)
 
