@@ -6,9 +6,9 @@ A curated list of bitcoin services and tools for software developers
 List of content
 
 - [Utilities](#utilities)
-- [Blockchain API and Web service](#blockchain-api-and-web-services)
+- [Blockchain API and Web services](#blockchain-api-and-web-services)
 - [Wallets API](#wallets-api)
-- [Opensource wallets](#open-source-wallets)
+- [Open Source wallets](#open-source-wallets)
 - [Blockchain Explorers](#blockchain-explorers)
 - [C++ Libraries](#c-libraries)
 - [JavaScript Libraries](#javascript-libraries)
@@ -16,7 +16,10 @@ List of content
 - [Ruby Libraries](#ruby-libraries)
 - [Python Libraries](#python-libraries)
 - [Java Libraries](#java-libraries)
+- [.Net Libraries](#net-libraries)
 - [Playgrounds](#playgrounds)
+- [Blockchain dump](#blockchain-dump)
+- [Full nodes](#full-nodes)
 - [Read](#read)
 - [Course](#course)
 
@@ -24,7 +27,6 @@ List of content
 # Utilities
 * [BitKey](https://bitkey.io) Live USB for airgapped transactions and Bitcoin swiss army knife 
 * [Pycoin](https://github.com/richardkiss/pycoin) Python-based Bitcoin and alt-coin utility library.
-* [sx](https://github.com/spesmilo/sx/) sx - command line Bitcoin to empower the sysadmin
 * [bx](https://github.com/libbitcoin/libbitcoin-explorer) Bitcoin Command Line Tool
 * [txwatcher](https://github.com/tsileo/txwatcher)A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
 * [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
@@ -32,30 +34,29 @@ List of content
 
 # Blockchain API and Web services
 * [block.io](https://block.io)
-* [BlockCypher](http://www.blockcypher.com)
+* [BlockCypher](https://www.blockcypher.com)
 * [Gem.co](https://gem.co)
 * [Insight](https://insight.is)
 * [Chain.com](https://chain.com)
-* [Toshi by Coinbase](https://toshi.io/)
+* [Coinbase Wallet](https://wallet.coinbase.com/)
 * [Smartbit](https://www.smartbit.com.au)
 * [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway.
 * [Chainradar API](https://github.com/yasaricli/chainradar-api) Blockchain Explorer API for Chainradar
 
 # Wallets API
-* [BitGo](https://www.bitgo.com/api/)
+* [BitGo](https://bitgo.github.io/bitgo-docs/)
 * [Coinbase](https://developers.coinbase.com)
-* [Blockchain.info](https://blockchain.info/api)
+* [Blockchain.com](https://www.blockchain.com/api)
 * [BIP32](http://bip32.org)
 
 # Open Source Wallets
 * [CoPay by BitPay](https://copay.io/)
-* [CoinPunk](https://coinpunk.com/)
 * [Coinb.in](https://coinb.in)
 * [Electrum](https://electrum.org/)
 
 # Blockchain Explorers
 * [Chain.so](http://chain.so)
-* [Blockchain.info](https://blockchain.info)
+* [Blockchain.com](https://blockchain.com)
 * [BlockTrail](https://www.blocktrail.com/BTC) 
 * [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer)
 * [Blockexplorer.com](https://blockexplorer.com)
@@ -69,9 +70,9 @@ List of content
 
 # JavaScript Libraries
 * [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
-* [Bitcore Library](https://github.com/bitpay/bitcore-lib)
+* [Bitcore Library](https://github.com/bitpay/bitcore/tree/v8.0.0/packages/bitcore-lib)
 * [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
-* [Cryptocoin](https://github.com/cryptocoinjs/cryptocoin)
+* [Cryptocoin](http://cryptocoinjs.com/#modules)
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs)
 * [bcoin](https://github.com/bcoin-org/bcoin) Javascript bitcoin library for node.js and browsers 
 
@@ -91,20 +92,20 @@ List of content
 
 # Java Libraries
 * [BitcoinJ](https://bitcoinj.github.io)
-* [XChange](https://github.com/timmolter/XChange) Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
+* [XChange](https://github.com/knowm/XChange) Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
 
 # .Net Libraries
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin)Comprehensive Bitcoin library for the .NET framework.
-* [BitcoinLib](https://github.com/GeorgeKimionis/BitcoinLib) The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
+* [BitcoinLib](https://github.com/cryptean/bitcoinlib) The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
 * [QBitNinja](https://github.com/MetacoSA/QBitNinja) An Open Source and powerful blockchain API
 
 # Playgrounds
-* [Script Playground](http://www.crmarsh.com/script-playground/)
+* [Script Playground](https://www.crmarsh.com/script-playground/)
 * [Bitcoin IDE](https://github.com/siminchen/bitcoinIDE) Bitcoin Script for dummies
 * [Debug Script Execution](https://webbtc.com/script)
 * [Script Debugger](https://github.com/kallewoof/btcdeb)
 * [Bitcore Playground](https://bitcore.io/playground/)
-* [Mnemonic Code generator](https://dcpos.github.io/bip39/)
+* [Mnemonic Code generator](https://iancoleman.io/bip39/)
 * [blockchain-demo](https://github.com/anders94/blockchain-demo/) A web-based demonstration of blockchain concepts
 * [Bitcoin Script Debugger](https://github.com/liuhongchao/bitcoin4s) Visualize Bitcoin script execution for real transactions
 
@@ -117,29 +118,26 @@ List of content
 * [Blockchain2Graph](https://github.com/straumat/blockchain2graph) Graph Database Builder
 
 # Full nodes
-* [Bitcoinjs-server](https://github.com/bitcoinjs/bitcoinjs-server) Bitcoin network node in JavaScript using Node.js / LevelDB
 * [Bitcoin-ruby-node](https://github.com/mhanne/bitcoin-ruby-node) bitcoin node based on bitcoin-ruby-blockchain
-* [Toshi by Coinbase](https://toshi.io/) An open source Bitcoin node built to power large scale web applications
-* [Fullnode](https://github.com/ryanxcharles/fullnode) Javascript implementation of bitcoin
-* [Insight API](https://github.com/bitpay/insight-api) A bitcoin blockchain API for web wallets
-* [Bitcoind.JS](https://github.com/bitpay/bitcoind.js) bitcoind linked to node.js by BitPay
+* [Fullnode](https://github.com/ryanxcharles/yours-bitcoin) Javascript implementation of bitcoin
+* [Bitcore Node](https://github.com/bitpay/bitcore-node) bitcoind linked to node.js by BitPay
 * [Bitcore](https://github.com/bitpay/bitcore) Formerly just a Nodejs library, now a full node
 
 # Read
-* [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook)
+* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 * [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) An in-depth technical book with rich illustrations.
-* [Bitcoin Stackexchange](http://bitcoin.stackexchange.com)
-* [Elliptic Curve Cryptography A Gentle Introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
+* [Bitcoin Stackexchange](https://bitcoin.stackexchange.com)
+* [Elliptic Curve Cryptography A Gentle Introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
 * [Bitcoin Programming with BitcoinJS and Bitcoin Core CLI](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS)
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
-Created by [BlockchainU](http://blockchainu.co/) fellows.
+Created by BlockchainU fellows.
 
 # Course
 * [Bitcoin & Cryptocurrency](http://bitcoinbook.cs.princeton.edu/)
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Igor Barinov](https://github.com/igorbarinov/) has waived all copyright and related or neighboring rights to this work.
