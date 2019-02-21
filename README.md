@@ -46,6 +46,7 @@ List of content
 * [Coinbase](https://developers.coinbase.com)
 * [Blockchain.info](https://blockchain.info/api)
 * [BIP32](http://bip32.org)
+* [Hedge](https://usehedge.com)
 
 # Open Source Wallets
 * [CoPay by BitPay](https://copay.io/)
