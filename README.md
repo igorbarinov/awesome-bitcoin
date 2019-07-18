@@ -62,6 +62,7 @@ List of content
 * [Blockexplorer.com](https://blockexplorer.com)
 * [Smartbit](https://www.smartbit.com.au)
 * [Bitkit](https://bitkit.live) - Real time transaction updates
+* [Symphony](https://symphony.iohk.io/) 3D Blockchain Explorer
 
 # C++ Libraries
 * [Libbitcoin](https://libbitcoin.org/)
