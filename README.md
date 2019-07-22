@@ -16,6 +16,7 @@ List of content
 - [Ruby Libraries](#ruby-libraries)
 - [Python Libraries](#python-libraries)
 - [Java Libraries](#java-libraries)
+- [Scala Libraries](#scala-libraries)
 - [.Net Libraries](#net-libraries)
 - [Playgrounds](#playgrounds)
 - [Blockchain dump](#blockchain-dump)
@@ -91,8 +92,13 @@ List of content
 * [bitcoin_tools](https://github.com/sr-gi/bitcoin_tools) Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation. 
 
 # Java Libraries
+> Note that you can also use [Scala libraries](#scala-libraries) in Java
 * [BitcoinJ](https://bitcoinj.github.io)
 * [XChange](https://github.com/knowm/XChange) Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
+
+# Scala libraries
+> Note that you can also use [Java libraries](#java-libraries) in Scala
+* [Bitcoin-S](https://bitcoin-s.org) Scala/JVM toolkit for Bitcoin applications, includes Bitcoin data structures, transaction signing, strongly typed `bitcoind`/Eclair RPC clients, and more
 
 # .Net Libraries
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin)Comprehensive Bitcoin library for the .NET framework.
