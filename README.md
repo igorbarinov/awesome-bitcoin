@@ -43,6 +43,7 @@ List of content
 * [Smartbit](https://www.smartbit.com.au)
 * [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway.
 * [Chainradar API](https://github.com/yasaricli/chainradar-api) Blockchain Explorer API for Chainradar
+* [One-Time Address](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
 
 # Wallets API
 * [BitGo](https://bitgo.github.io/bitgo-docs/)
