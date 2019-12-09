@@ -3,7 +3,7 @@ Awesome Bitcoin
 A curated list of bitcoin services and tools for software developers
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-List of content
+# List of content
 
 - [Utilities](#utilities)
 - [Blockchain API and Web services](#blockchain-api-and-web-services)
@@ -23,9 +23,10 @@ List of content
 - [Full nodes](#full-nodes)
 - [Read](#read)
 - [Course](#course)
+- [Additional Resources](#additional-resources)
 
 
-# Utilities
+## Utilities
 * [BitKey](https://bitkey.io) - Live USB for airgapped transactions and Bitcoin swiss army knife.
 * [Pycoin](https://github.com/richardkiss/pycoin) - Python-based Bitcoin and alt-coin utility library.
 * [bx](https://github.com/libbitcoin/libbitcoin-explorer) - Bitcoin Command Line Tool.
@@ -34,7 +35,7 @@ List of content
 * [Mining visualization](http://www.yogh.io/#mine:last)
 * [HD Wallet Scanner](https://github.com/alexk111/HD-Wallet-Scanner) - Find all used addresses in your Bitcoin HD wallets bypassing gap limits.
 
-# Blockchain API and Web services
+## Blockchain API and Web services
 * [block.io](https://block.io)
 * [BlockCypher](https://www.blockcypher.com)
 * [Gem.co](https://gem.co)
@@ -46,18 +47,18 @@ List of content
 * [Chainradar API](https://github.com/yasaricli/chainradar-api) - Blockchain Explorer API for Chainradar.
 * [One-Time Address](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
 
-# Wallets API
+## Wallets API
 * [BitGo](https://bitgo.github.io/bitgo-docs/)
 * [Coinbase](https://developers.coinbase.com)
 * [Blockchain.com](https://www.blockchain.com/api)
 * [BIP32](http://bip32.org)
 
-# Open Source Wallets
+## Open Source Wallets
 * [CoPay by BitPay](https://copay.io/)
 * [Coinb.in](https://coinb.in)
 * [Electrum](https://electrum.org/)
 
-# Blockchain Explorers
+## Blockchain Explorers
 * [Chain.so](http://chain.so)
 * [Blockchain.com](https://blockchain.com)
 * [BlockTrail](https://www.blocktrail.com/BTC) 
@@ -66,12 +67,12 @@ List of content
 * [Smartbit](https://www.smartbit.com.au)
 * [Bitkit](https://bitkit.live) - Real time transaction updates.
 
-# C++ Libraries
+## C++ Libraries
 * [Libbitcoin](https://libbitcoin.org/)
 * [libwally-core](https://github.com/ElementsProject/libwally-core)
 * [secp256k1](https://github.com/bitcoin-core/secp256k1)
 
-# JavaScript Libraries
+## JavaScript Libraries
 * [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
 * [Bitcore Library](https://github.com/bitpay/bitcore/tree/v8.0.0/packages/bitcore-lib)
 * [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
@@ -79,35 +80,35 @@ List of content
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs)
 * [bcoin](https://github.com/bcoin-org/bcoin) - Javascript bitcoin library for node.js and browsers.
 
-# PHP Libraries
+## PHP Libraries
 * [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN)
 * [BlockTrail PHP SDK](https://github.com/blocktrail/blocktrail-sdk-php)
 
-# Ruby Libraries
+## Ruby Libraries
 * [Bitcoin-ruby](https://github.com/lian/bitcoin-ruby)
 
-# Python Libraries
+## Python Libraries
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python)
 * [btctxstore](https://github.com/F483/btctxstore) - Simple library to store/retrieve information in bitcoin transactions using OP_RETURN.
 * [pybitcointools](https://github.com/vbuterin/pybitcointools) - Python library for Bitcoin signatures and transactions from Vitalik Buterin. Project discontinued.
 * [pycoin](https://github.com/richardkiss/pycoin) - Python library for Bitcoin keys, signatures, transactions. Includes full VM implementation and tools for manipulating keys (ku) and transactions (tx).
 * [bitcoin_tools](https://github.com/sr-gi/bitcoin_tools) - Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation. 
 
-# Java Libraries
+## Java Libraries
 > Note that you can also use [Scala libraries](#scala-libraries) in Java.
 * [BitcoinJ](https://bitcoinj.github.io)
 * [XChange](https://github.com/knowm/XChange) - Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
 
-# Scala libraries
+## Scala libraries
 > Note that you can also use [Java libraries](#java-libraries) in Scala.
 * [Bitcoin-S](https://bitcoin-s.org) - Scala/JVM toolkit for Bitcoin applications, includes Bitcoin data structures, transaction signing, strongly typed `bitcoind`/Eclair RPC clients, and more.
 
-# .Net Libraries
+## .Net Libraries
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin)Comprehensive Bitcoin library for the .NET framework.
 * [BitcoinLib](https://github.com/cryptean/bitcoinlib) - The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
 * [QBitNinja](https://github.com/MetacoSA/QBitNinja) - An Open Source and powerful blockchain API.
 
-# Playgrounds
+## Playgrounds
 * [Script Playground](https://www.crmarsh.com/script-playground/)
 * [Bitcoin IDE](https://github.com/siminchen/bitcoinIDE) - Bitcoin Script for dummies.
 * [Debug Script Execution](https://webbtc.com/script)
@@ -117,7 +118,7 @@ List of content
 * [blockchain-demo](https://github.com/anders94/blockchain-demo/) - A web-based demonstration of blockchain concepts.
 * [Bitcoin Script Debugger](https://github.com/liuhongchao/bitcoin4s) - Visualize Bitcoin script execution for real transactions.
 
-# Blockchain dump
+## Blockchain dump
 * [WebBTC](http://dumps.webbtc.com/bitcoin/) - These are postgres database dumps of the bitcoin-ruby-blockchain database generated by webbtc.com.
 * [BitcoinDatabaseGenerator](https://github.com/ladimolnar/BitcoinDatabaseGenerator) - A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database.
 * [Blockparser+SQL](https://github.com/mcdee/blockparser) - Fast, quick and dirty bitcoin blockchain parser.
@@ -125,13 +126,13 @@ List of content
 * [NBitcoin.Indexer](https://github.com/MetacoSA/NBitcoin.Indexer) - Scalable and fault-tolerant block chain indexer for Azure cloud platform.
 * [Blockchain2Graph](https://github.com/straumat/blockchain2graph) - Graph Database Builder.
 
-# Full nodes
+## Full nodes
 * [Bitcoin-ruby-node](https://github.com/mhanne/bitcoin-ruby-node) - bitcoin node based on bitcoin-ruby-blockchain.
 * [Fullnode](https://github.com/ryanxcharles/yours-bitcoin) - Javascript implementation of bitcoin.
 * [Bitcore Node](https://github.com/bitpay/bitcore-node) - bitcoind linked to node.js by BitPay.
 * [Bitcore](https://github.com/bitpay/bitcore) - Formerly just a Nodejs library, now a full node.
 
-# Read
+## Read
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 * [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) - An in-depth technical book with rich illustrations.
 * [Bitcoin Stackexchange](https://bitcoin.stackexchange.com)
@@ -140,16 +141,18 @@ List of content
 * [Bitcoin Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/bitcoin-curriculum)
 * [Lightning Network Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/lightning-curriculum)
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
-Created by BlockchainU fellows.
-
-# Course
+## Course
 * [Bitcoin & Cryptocurrency](http://bitcoinbook.cs.princeton.edu/)
 
-# Additional Resources
+## Additional Resources
 
 * [Practical Bitcoin Info](https://docs.google.com/spreadsheets/d/1Z3Ofa4P8097VWV70Z_bMqIMladngvm-Ck24ot9TDNmw/) on Google Sheets.
 * [Bitcoin Learning Master List](https://www.evernote.com/shard/s341/client/snv?noteGuid=b7065b5d-353e-4aca-8cf7-5c4d6392ba4b&noteKey=7c27ada4b31da804&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs341%2Fsh%2Fb7065b5d-353e-4aca-8cf7-5c4d6392ba4b%2F7c27ada4b31da804&title=Bitcoin%2BLearning%2BMaster%2BList)
+
+---
+
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+Created by BlockchainU fellows.
 
 ## License
 
