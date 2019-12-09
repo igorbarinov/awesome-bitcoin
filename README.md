@@ -137,24 +137,26 @@ A curated list of bitcoin services and tools for software developers
 * [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) - An in-depth technical book with rich illustrations.
 * [Bitcoin Stackexchange](https://bitcoin.stackexchange.com)
 * [Elliptic Curve Cryptography A Gentle Introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
-* [Bitcoin Programming with BitcoinJS and Bitcoin Core CLI](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS)
-* [Bitcoin Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/bitcoin-curriculum)
-* [Lightning Network Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/lightning-curriculum)
+* [Bitcoin Programming with BitcoinJS and Bitcoin Core CLI](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS).
+* [Bitcoin Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/bitcoin-curriculum).
+* [Lightning Network Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/lightning-curriculum).
 
 ## Course
 * [Bitcoin & Cryptocurrency](http://bitcoinbook.cs.princeton.edu/)
 
 ## Additional Resources
 
-* [Practical Bitcoin Info](https://docs.google.com/spreadsheets/d/1Z3Ofa4P8097VWV70Z_bMqIMladngvm-Ck24ot9TDNmw/) on Google Sheets.
-* [Bitcoin Learning Master List](https://www.evernote.com/shard/s341/client/snv?noteGuid=b7065b5d-353e-4aca-8cf7-5c4d6392ba4b&noteKey=7c27ada4b31da804&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs341%2Fsh%2Fb7065b5d-353e-4aca-8cf7-5c4d6392ba4b%2F7c27ada4b31da804&title=Bitcoin%2BLearning%2BMaster%2BList)
+* [Practical Bitcoin Info - Google Sheets](https://docs.google.com/spreadsheets/d/1Z3Ofa4P8097VWV70Z_bMqIMladngvm-Ck24ot9TDNmw/).
+* [Bitcoin Learning Master List](https://www.evernote.com/shard/s341/client/snv?noteGuid=b7065b5d-353e-4aca-8cf7-5c4d6392ba4b&noteKey=7c27ada4b31da804&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs341%2Fsh%2Fb7065b5d-353e-4aca-8cf7-5c4d6392ba4b%2F7c27ada4b31da804&title=Bitcoin%2BLearning%2BMaster%2BList).
 
 ---
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 Created by BlockchainU fellows.
 
-## License
+---
+
+### License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
