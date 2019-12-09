@@ -32,6 +32,7 @@ List of content
 * [txwatcher](https://github.com/tsileo/txwatcher)A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
 * [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
 * [Mining visualization](http://www.yogh.io/#mine:last)
+* [HD Wallet Scanner](https://github.com/alexk111/HD-Wallet-Scanner) Find all used addresses in your Bitcoin HD wallets bypassing gap limits.
 
 # Blockchain API and Web services
 * [block.io](https://block.io)
@@ -43,6 +44,7 @@ List of content
 * [Smartbit](https://www.smartbit.com.au)
 * [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway.
 * [Chainradar API](https://github.com/yasaricli/chainradar-api) Blockchain Explorer API for Chainradar
+* [One-Time Address](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
 
 # Wallets API
 * [BitGo](https://bitgo.github.io/bitgo-docs/)
