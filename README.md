@@ -147,7 +147,6 @@ A curated list of bitcoin services and tools for software developers
 ## Additional Resources
 
 * [Practical Bitcoin Info - Google Sheets](https://docs.google.com/spreadsheets/d/1Z3Ofa4P8097VWV70Z_bMqIMladngvm-Ck24ot9TDNmw/).
-* [Bitcoin Learning Master List](https://www.evernote.com/shard/s341/client/snv?noteGuid=b7065b5d-353e-4aca-8cf7-5c4d6392ba4b&noteKey=7c27ada4b31da804&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs341%2Fsh%2Fb7065b5d-353e-4aca-8cf7-5c4d6392ba4b%2F7c27ada4b31da804&title=Bitcoin%2BLearning%2BMaster%2BList).
 
 ---
 
