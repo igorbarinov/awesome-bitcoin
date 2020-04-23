@@ -34,6 +34,7 @@ A curated list of bitcoin services and tools for software developers
 * [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) - A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
 * [Mining visualization](http://www.yogh.io/#mine:last)
 * [HD Wallet Scanner](https://github.com/alexk111/HD-Wallet-Scanner) - Find all used addresses in your Bitcoin HD wallets bypassing gap limits.
+* [Bitragem](https://bitragem.com/) - Find best Bitcoin price in your country
 
 ## Blockchain API and Web services
 * [block.io](https://block.io)
