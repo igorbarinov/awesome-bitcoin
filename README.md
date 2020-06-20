@@ -46,8 +46,10 @@ A curated list of bitcoin services and tools for software developers
 * [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - Self-hosted payment gateway.
 * [Chainradar API](https://github.com/yasaricli/chainradar-api) - Blockchain Explorer API for Chainradar.
 * [One-Time Address](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
-* [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc. 
+
+## Market Data API
 * [CoinMetrics.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
+* [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc. 
 
 ## Wallets API
 * [BitGo](https://bitgo.github.io/bitgo-docs/)
