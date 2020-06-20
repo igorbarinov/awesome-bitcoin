@@ -155,6 +155,8 @@ A curated list of bitcoin services and tools for software developers
 * [@lopp / Lightning Developers](https://twitter.com/lopp/lists/lightning-developers) - Software developers with experience working on LN implementations / applications.
 * [Practical Bitcoin Info - Google Sheets](https://docs.google.com/spreadsheets/d/1Z3Ofa4P8097VWV70Z_bMqIMladngvm-Ck24ot9TDNmw/).
 * [A brief history of Bitcoin development...](https://www.youtube.com/watch?v=ZfFNce6CVsE)
+* [bitcoin-resources.com](https://bitcoin-resources.com/) Meta-list of Bitcoin resources, from books, articles, to podcasts.
+* [Jameson Lopp Bitcoin Resource List](https://www.lopp.net/bitcoin-information.html) Very detailed curated Bitcoin resource list and meta-list by J. Lopp
 
 ---
 
