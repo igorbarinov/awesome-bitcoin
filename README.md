@@ -48,7 +48,7 @@ A curated list of bitcoin services and tools for software developers
 * [One-Time Address](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
 
 ## Market Data API
-* [CoinMetrics.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
+* [CoinMetrics.io](https://docs.coinmetrics.io/api/v2/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
 * [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc. 
 
 ## Wallets API
