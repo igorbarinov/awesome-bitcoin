@@ -98,6 +98,7 @@ A curated list of bitcoin services and tools for software developers
 * [pycoin](https://github.com/richardkiss/pycoin) - Python library for Bitcoin keys, signatures, transactions. Includes full VM implementation and tools for manipulating keys (ku) and transactions (tx).
 * [bitcoin_tools](https://github.com/sr-gi/bitcoin_tools) - Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation.
 * [oogway](https://github.com/merwane/oogway) - A secure Bitcoin utility library for Python.
+* [LibreSelery] - Continuous funding distribution to your project contributors and dependencies with cryptocurrency
 
 ## Java Libraries
 > Note that you can also use [Scala libraries](#scala-libraries) in Java.
