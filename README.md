@@ -136,6 +136,7 @@ A curated list of bitcoin services and tools for software developers
 * [Blockchain2Graph](https://github.com/straumat/blockchain2graph) - Graph Database Builder.
 
 ## Full nodes
+* [btcd](https://github.com/btcsuite/btcd/) - Go-based full node since 2013.
 * [Bitcoin-ruby-node](https://github.com/mhanne/bitcoin-ruby-node) - bitcoin node based on bitcoin-ruby-blockchain.
 * [Fullnode](https://github.com/ryanxcharles/yours-bitcoin) - Javascript implementation of bitcoin.
 * [Bitcore Node](https://github.com/bitpay/bitcore-node) - bitcoind linked to node.js by BitPay.
