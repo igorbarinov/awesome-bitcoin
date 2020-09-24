@@ -67,6 +67,7 @@ A curated list of bitcoin services and tools for software developers
 ## Blockchain Explorers
 * [Chain.so](http://chain.so)
 * [Blockchain.com](https://blockchain.com)
+* [Blockstream.info](https://blockstream.info) - Blockchain explorer with API (mainnet, testnet and Liquid).
 * [BlockTrail](https://www.blocktrail.com/BTC) 
 * [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer)
 * [Blockexplorer.com](https://blockexplorer.com)
