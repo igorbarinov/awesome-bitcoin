@@ -40,6 +40,7 @@ A curated list of bitcoin services and tools for software developers
 ## Blockchain API and Web services
 * [block.io](https://block.io)
 * [BlockCypher](https://www.blockcypher.com)
+* [Esplora](https://github.com/Blockstream/esplora) - Self-hosted blockchain explorer.
 * [Gem.co](https://gem.co)
 * [Insight](https://insight.is)
 * [Chain.com](https://chain.com)
