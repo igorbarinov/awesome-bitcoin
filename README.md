@@ -165,7 +165,7 @@ A curated list of bitcoin services and tools for software developers
 * [A brief history of Bitcoin development...](https://www.youtube.com/watch?v=ZfFNce6CVsE)
 * [bitcoin-resources.com](https://bitcoin-resources.com/) Meta-list of Bitcoin resources, from books, articles, to podcasts.
 * [Jameson Lopp Bitcoin Resource List](https://www.lopp.net/bitcoin-information.html) Very detailed curated Bitcoin resource list and meta-list by J. Lopp
-
+* [River Learn](https://river.com/learn) A collection of educational resources to learn about Bitcoin basics, investing, technology, and more.
 ---
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
