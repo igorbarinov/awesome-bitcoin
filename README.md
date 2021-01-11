@@ -115,7 +115,7 @@ A curated list of bitcoin services and tools for software developers
 * [Bitcoin-S](https://bitcoin-s.org) - Scala/JVM toolkit for Bitcoin applications, includes Bitcoin data structures, transaction signing, strongly typed `bitcoind`/Eclair RPC clients, and more.
 
 ## .Net Libraries
-* [NBitcoin](https://github.com/MetacoSA/NBitcoin)Comprehensive Bitcoin library for the .NET framework.
+* [NBitcoin](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
 * [BitcoinLib](https://github.com/cryptean/bitcoinlib) - The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
 * [QBitNinja](https://github.com/MetacoSA/QBitNinja) - An Open Source and powerful blockchain API.
 
