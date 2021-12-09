@@ -136,6 +136,7 @@ A curated list of bitcoin services and tools for software developers
 * [BitcoinABE](https://github.com/bitcoin-abe/bitcoin-abe) - Abe: block browser for Bitcoin and similar currencies.
 * [NBitcoin.Indexer](https://github.com/MetacoSA/NBitcoin.Indexer) - Scalable and fault-tolerant block chain indexer for Azure cloud platform.
 * [Blockchain2Graph](https://github.com/straumat/blockchain2graph) - Graph Database Builder.
+* [Chaingraph](https://github.com/bitauth/chaingraph/) – A multi-node blockchain indexer and GraphQL API.
 
 ## Full nodes
 * [btcd](https://github.com/btcsuite/btcd/) - Go-based full node since 2013.
