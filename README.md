@@ -48,6 +48,7 @@ A curated list of bitcoin services and tools for software developers
 * [Chain.com](https://chain.com)
 * [Coinbase Wallet](https://wallet.coinbase.com/)
 * [Smartbit](https://www.smartbit.com.au)
+* [Blockpulsar.com](https://blockpulsar.com)
 * [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - Self-hosted payment gateway.
 * [Chainradar API](https://github.com/yasaricli/chainradar-api) - Blockchain Explorer API for Chainradar.
 * [One-Time Address](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
