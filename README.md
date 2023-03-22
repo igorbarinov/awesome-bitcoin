@@ -93,6 +93,7 @@ A curated list of bitcoin services and tools for software developers
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs)
 * [bcoin](https://github.com/bcoin-org/bcoin) - Javascript bitcoin library for node.js and browsers.
 * [Libauth](https://libauth.org/) – A lightweight, zero-dependency, JavaScript/TypeScript bitcoin library.
+* [scure-btc-signer](https://github.com/paulmillr/scure-btc-signer) — Secure, audited minimal library for creating, signing & decoding Bitcoin transactions.
 
 ## PHP Libraries
 * [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN)
