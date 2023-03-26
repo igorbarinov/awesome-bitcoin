@@ -17,6 +17,7 @@ A curated list of bitcoin services and tools for software developers
 - [Python Libraries](#python-libraries)
 - [Java Libraries](#java-libraries)
 - [Scala Libraries](#scala-libraries)
+- [Swift Libraries](#swift-libraries)
 - [.Net Libraries](#net-libraries)
 - [Playgrounds](#playgrounds)
 - [Blockchain dump](#blockchain-dump)
@@ -119,6 +120,9 @@ A curated list of bitcoin services and tools for software developers
 ## Scala libraries
 > Note that you can also use [Java libraries](#java-libraries) in Scala.
 * [Bitcoin-S](https://bitcoin-s.org) - Scala/JVM toolkit for Bitcoin applications, includes Bitcoin data structures, transaction signing, strongly typed `bitcoind`/Eclair RPC clients, and more.
+
+## Swift libraries
+* [secp256k1.swift](https://github.com/GigaBitcoin/secp256k1.swift) - Swift package for secp256k1 applications, includes Elliptic Curve operations, Schnorr, ZKP and more for Bitcoin.
 
 ## .Net Libraries
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
