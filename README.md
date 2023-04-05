@@ -102,6 +102,9 @@ A curated list of bitcoin services and tools for software developers
 
 ## Ruby Libraries
 * [Bitcoin-ruby](https://github.com/lian/bitcoin-ruby)
+* [bitcoinrb](https://github.com/chaintope/bitcoinrb) - Ruby bitcoin library including script interpreter.
+* [bech32rb](https://github.com/azuchi/bech32rb) - Bech32 and Bech32m encode/decode library.
+* [bip-schnorrrb](https://github.com/chaintope/bip-schnorrrb) - Schnorr signature library for Bitcoin.
 
 ## Python Libraries
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python)
