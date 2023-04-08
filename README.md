@@ -10,7 +10,8 @@ A curated list of bitcoin services and tools for software developers
 - [Wallets API](#wallets-api)
 - [Open Source wallets](#open-source-wallets)
 - [Blockchain Explorers](#blockchain-explorers)
-- [C++ Libraries](#c-libraries)
+- [C Libraries](#c-libraries)
+- [C++ Libraries](#c-libraries-1)
 - [JavaScript Libraries](#javascript-libraries)
 - [PHP Libraries](#php-libraries)
 - [Ruby Libraries](#ruby-libraries)
@@ -81,10 +82,12 @@ A curated list of bitcoin services and tools for software developers
 * [Smartbit](https://www.smartbit.com.au)
 * [Bitkit](https://bitkit.live) - Real time transaction updates.
 
+## C Libraries
+* [libsecp256k1](https://github.com/bitcoin-core/secp256k1)
+
 ## C++ Libraries
 * [Libbitcoin](https://libbitcoin.org/)
 * [libwally-core](https://github.com/ElementsProject/libwally-core)
-* [secp256k1](https://github.com/bitcoin-core/secp256k1)
 
 ## JavaScript Libraries
 * [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
