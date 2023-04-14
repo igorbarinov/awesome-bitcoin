@@ -63,6 +63,7 @@ A curated list of bitcoin services and tools for software developers
 * [Coinbase](https://developers.coinbase.com)
 * [Blockchain.com](https://www.blockchain.com/api)
 * [BIP32](http://bip32.org)
+* [walletOS](https://www.pinestreetlabs.com/walletos/)
 
 ## Open Source Wallets
 * [CoPay by BitPay](https://copay.io/)
