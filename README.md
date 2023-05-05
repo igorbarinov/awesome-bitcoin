@@ -72,8 +72,10 @@ A curated list of bitcoin services and tools for software developers
 * [Electrum](https://electrum.org/)
 
 ## Blockchain Explorers
+* [3xpl.com](https://3xpl.com/bitcoin) - Fastest ad-free universal block explorer.
 * [Chain.so](http://chain.so)
 * [Blockchain.com](https://blockchain.com)
+* [Blockchair.com](https://blockchair.com/bitcoin) - Universal blockchain explorer and search engine.
 * [Blockstream.info](https://blockstream.info) - Blockchain explorer with API (mainnet, testnet and Liquid).
 * [BlockTrail](https://www.blocktrail.com/BTC) 
 * [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer)
