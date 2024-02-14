@@ -20,6 +20,7 @@ A curated list of bitcoin services and tools for software developers
 - [Scala Libraries](#scala-libraries)
 - [Swift Libraries](#swift-libraries)
 - [.Net Libraries](#net-libraries)
+- [Haskell Libraries](#haskell-libraries)
 - [Playgrounds](#playgrounds)
 - [Blockchain dump](#blockchain-dump)
 - [Full nodes](#full-nodes)
@@ -136,6 +137,10 @@ A curated list of bitcoin services and tools for software developers
 ## .Net Libraries
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
 * [BitcoinLib](https://github.com/cryptean/bitcoinlib) - The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
+
+## Haskell Libraries
+* [Haskoin-core](https://github.com/haskoin/haskoin-core) - Haskoin Core is a library of Bitcoin and Bitcoin Cash functions written in Haskell.
+
 ## Playgrounds
 * [Script Playground](https://www.crmarsh.com/script-playground/)
 * [Bitcoin IDE](https://github.com/siminchen/bitcoinIDE) - Bitcoin Script for dummies.
