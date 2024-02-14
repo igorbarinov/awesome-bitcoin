@@ -160,7 +160,7 @@ A curated list of bitcoin services and tools for software developers
 * [Bitcore](https://github.com/bitpay/bitcore) - Formerly just a Nodejs library, now a full node.
 
 ## Read
-* [A Gentle Introduction to Bitcoin Core Development](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
+* [A Gentle Introduction to Bitcoin Core Development](https://medium.com/bitcoin-tech-talk/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 * [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) - An in-depth technical book with rich illustrations.
 * [Bitcoin Stackexchange](https://bitcoin.stackexchange.com)
