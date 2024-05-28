@@ -87,6 +87,7 @@ A curated list of bitcoin services and tools for software developers
 * [Blockexplorer.com](https://blockexplorer.com)
 * [Smartbit](https://www.smartbit.com.au)
 * [Bitkit](https://bitkit.live) - Real time transaction updates.
+* [mempool.space](https://mempool.space/) - Open source, self hostable blockchain, mempool and lightning network explorer
 
 ## C Libraries
 * [libsecp256k1](https://github.com/bitcoin-core/secp256k1)
