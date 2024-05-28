@@ -59,7 +59,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Market Data API
 * [CoinMetrics.io](https://docs.coinmetrics.io/api/v2/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
-* [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc. 
+* [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc.
 
 ## Wallets API
 * [BitGo](https://bitgo.github.io/bitgo-docs/)
@@ -79,7 +79,7 @@ A curated list of bitcoin services and tools for software developers
 * [Blockchain.com](https://blockchain.com)
 * [Blockchair.com](https://blockchair.com/bitcoin) - Universal blockchain explorer and search engine.
 * [Blockstream.info](https://blockstream.info) - Blockchain explorer with API (mainnet, testnet and Liquid).
-* [BlockTrail](https://www.blocktrail.com/BTC) 
+* [BlockTrail](https://www.blocktrail.com/BTC)
 * [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer)
 * [Blockexplorer.com](https://blockexplorer.com)
 * [Smartbit](https://www.smartbit.com.au)
@@ -166,6 +166,7 @@ A curated list of bitcoin services and tools for software developers
 * [Fullnode](https://github.com/moneybutton/yours-bitcoin) - Javascript implementation of bitcoin.
 * [Bitcore Node](https://github.com/bitpay/bitcore-node) - bitcoind linked to node.js by BitPay.
 * [Bitcore](https://github.com/bitpay/bitcore) - Formerly just a Nodejs library, now a full node.
+* [Bitcoin Core](https://bitcoincore.org/) - direct descendant of the original Bitcoin implementation in C++
 
 ## Read
 * [A Gentle Introduction to Bitcoin Core Development](https://medium.com/bitcoin-tech-talk/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
