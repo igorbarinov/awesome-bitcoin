@@ -116,6 +116,11 @@ A curated list of bitcoin services and tools for software developers
 * [bech32rb](https://github.com/azuchi/bech32rb) - Bech32 and Bech32m encode/decode library.
 * [bip-schnorrrb](https://github.com/chaintope/bip-schnorrrb) - Schnorr signature library for Bitcoin.
 
+## Rust Libraries
+* [Bitcoin Dev Kit (BDK)](https://bitcoindevkit.org/) - With BDK, you can seamlessly build cross platform mobile wallets
+* [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) - support for de/serialization, parsing and executing on data-structures and network messages.
+* [Lightning Dev Kit (LDK)](https://lightningdevkit.org/) -  Complete Lightning implementation packaged as an SDK
+
 ## Python Libraries
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python)
 * [btctxstore](https://github.com/F483/btctxstore) - Simple library to store/retrieve information in bitcoin transactions using OP_RETURN.
