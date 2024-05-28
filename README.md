@@ -59,7 +59,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Market Data API
 * [CoinMetrics.io](https://docs.coinmetrics.io/api/v2/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
-* [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc. 
+* [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc.
 
 ## Wallets API
 * [BitGo](https://bitgo.github.io/bitgo-docs/)
@@ -79,7 +79,7 @@ A curated list of bitcoin services and tools for software developers
 * [Blockchain.com](https://blockchain.com)
 * [Blockchair.com](https://blockchair.com/bitcoin) - Universal blockchain explorer and search engine.
 * [Blockstream.info](https://blockstream.info) - Blockchain explorer with API (mainnet, testnet and Liquid).
-* [BlockTrail](https://www.blocktrail.com/BTC) 
+* [BlockTrail](https://www.blocktrail.com/BTC)
 * [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer)
 * [Blockexplorer.com](https://blockexplorer.com)
 * [Smartbit](https://www.smartbit.com.au)
@@ -113,6 +113,11 @@ A curated list of bitcoin services and tools for software developers
 * [bitcoinrb](https://github.com/chaintope/bitcoinrb) - Ruby bitcoin library including script interpreter.
 * [bech32rb](https://github.com/azuchi/bech32rb) - Bech32 and Bech32m encode/decode library.
 * [bip-schnorrrb](https://github.com/chaintope/bip-schnorrrb) - Schnorr signature library for Bitcoin.
+
+## Rust Libraries
+* [Bitcoin Dev Kit (BDK)](https://bitcoindevkit.org/) - With BDK, you can seamlessly build cross platform mobile wallets
+* [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) - support for de/serialization, parsing and executing on data-structures and network messages.
+* [Lightning Dev Kit (LDK)](https://lightningdevkit.org/) -  Complete Lightning implementation packaged as an SDK
 
 ## Python Libraries
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python)
