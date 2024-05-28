@@ -56,10 +56,11 @@ A curated list of bitcoin services and tools for software developers
 * [Cryptocurrency Alerting](https://cryptocurrencyalerting.com/blockchain-alerts.html) - Bitcoin wallet monitoring and blockchain alerts.
 * [BTC Connect](https://developers.particle.network/reference/introduction-to-btc-connect) - Unified Bitcoin Layer-1 and Layer-2 wallet connection and account abstraction.
 * [Tatum](https://tatum.io/blockchain-api) - The blockchain development platform to build Web3 application. The go-to blockchain data API for Web3 developers.
+* [mempool.space](https://mempool.space/docs/api/rest) - Open source and self hostable REST, WebSocket and Electrum RPC API
 
 ## Market Data API
 * [CoinMetrics.io](https://docs.coinmetrics.io/api/v2/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
-* [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc. 
+* [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc.
 
 ## Wallets API
 * [BitGo](https://bitgo.github.io/bitgo-docs/)
@@ -79,7 +80,7 @@ A curated list of bitcoin services and tools for software developers
 * [Blockchain.com](https://blockchain.com)
 * [Blockchair.com](https://blockchair.com/bitcoin) - Universal blockchain explorer and search engine.
 * [Blockstream.info](https://blockstream.info) - Blockchain explorer with API (mainnet, testnet and Liquid).
-* [BlockTrail](https://www.blocktrail.com/BTC) 
+* [BlockTrail](https://www.blocktrail.com/BTC)
 * [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer)
 * [Blockexplorer.com](https://blockexplorer.com)
 * [Smartbit](https://www.smartbit.com.au)
