@@ -72,6 +72,7 @@ A curated list of bitcoin services and tools for software developers
 * [CoPay by BitPay](https://copay.io/)
 * [Coinb.in](https://coinb.in)
 * [Coin Wallet](https://coin.space/)
+* [Gem Wallet](https://gemwallet.com/)
 * [Electrum](https://electrum.org/)
 
 ## Blockchain Explorers
