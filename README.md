@@ -56,6 +56,7 @@ A curated list of bitcoin services and tools for software developers
 * [Cryptocurrency Alerting](https://cryptocurrencyalerting.com/blockchain-alerts.html) - Bitcoin wallet monitoring and blockchain alerts.
 * [BTC Connect](https://developers.particle.network/reference/introduction-to-btc-connect) - Unified Bitcoin Layer-1 and Layer-2 wallet connection and account abstraction.
 * [Tatum](https://tatum.io/blockchain-api) - The blockchain development platform to build Web3 application. The go-to blockchain data API for Web3 developers.
+* [mempool.space](https://mempool.space/docs/api/rest) - Open source and self hostable REST, WebSocket and Electrum RPC API
 
 ## Market Data API
 * [CoinMetrics.io](https://docs.coinmetrics.io/api/v2/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
@@ -71,7 +72,9 @@ A curated list of bitcoin services and tools for software developers
 ## Open Source Wallets
 * [CoPay by BitPay](https://copay.io/)
 * [Coinb.in](https://coinb.in)
+* [Coin Wallet](https://coin.space/)
 * [Electrum](https://electrum.org/)
+* [Green](https://blockstream.com/green/)
 * [Sparrow](https://sparrowwallet.com/)
 
 ## Blockchain Explorers
@@ -85,6 +88,7 @@ A curated list of bitcoin services and tools for software developers
 * [Blockexplorer.com](https://blockexplorer.com)
 * [Smartbit](https://www.smartbit.com.au)
 * [Bitkit](https://bitkit.live) - Real time transaction updates.
+* [mempool.space](https://mempool.space/) - Open source, self hostable blockchain, mempool and lightning network explorer
 
 ## C Libraries
 * [libsecp256k1](https://github.com/bitcoin-core/secp256k1)
@@ -114,6 +118,11 @@ A curated list of bitcoin services and tools for software developers
 * [bitcoinrb](https://github.com/chaintope/bitcoinrb) - Ruby bitcoin library including script interpreter.
 * [bech32rb](https://github.com/azuchi/bech32rb) - Bech32 and Bech32m encode/decode library.
 * [bip-schnorrrb](https://github.com/chaintope/bip-schnorrrb) - Schnorr signature library for Bitcoin.
+
+## Rust Libraries
+* [Bitcoin Dev Kit (BDK)](https://bitcoindevkit.org/) - With BDK, you can seamlessly build cross platform mobile wallets
+* [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) - support for de/serialization, parsing and executing on data-structures and network messages.
+* [Lightning Dev Kit (LDK)](https://lightningdevkit.org/) -  Complete Lightning implementation packaged as an SDK
 
 ## Python Libraries
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python)
@@ -167,6 +176,7 @@ A curated list of bitcoin services and tools for software developers
 * [Fullnode](https://github.com/moneybutton/yours-bitcoin) - Javascript implementation of bitcoin.
 * [Bitcore Node](https://github.com/bitpay/bitcore-node) - bitcoind linked to node.js by BitPay.
 * [Bitcore](https://github.com/bitpay/bitcore) - Formerly just a Nodejs library, now a full node.
+* [Bitcoin Core](https://bitcoincore.org/) - direct descendant of the original Bitcoin implementation in C++
 
 ## Read
 * [A Gentle Introduction to Bitcoin Core Development](https://medium.com/bitcoin-tech-talk/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
@@ -189,7 +199,9 @@ A curated list of bitcoin services and tools for software developers
 * [A brief history of Bitcoin development...](https://www.youtube.com/watch?v=ZfFNce6CVsE)
 * [bitcoin-resources.com](https://bitcoin-resources.com/) Meta-list of Bitcoin resources, from books, articles, to podcasts.
 * [Jameson Lopp Bitcoin Resource List](https://www.lopp.net/bitcoin-information.html) Very detailed curated Bitcoin resource list and meta-list by J. Lopp
+* [Svrgnty.com: Everything Bitcoin](https://svrgnty.com/) A curated list of the best Bitcoin resources.
 * [River Learn](https://river.com/learn) A collection of educational resources to learn about Bitcoin basics, investing, technology, and more.
+* [Learn me a Bitcoin - Greg Walker](https://learnmeabitcoin.com/) - extensive learning ressource for bitcoin developers
 ---
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
