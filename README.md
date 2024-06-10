@@ -75,6 +75,7 @@ A curated list of bitcoin services and tools for software developers
 * [Coin Wallet](https://coin.space/)
 * [Electrum](https://electrum.org/)
 * [Green](https://blockstream.com/green/)
+* [Sparrow](https://sparrowwallet.com/)
 
 ## Blockchain Explorers
 * [3xpl.com](https://3xpl.com/bitcoin) - Fastest ad-free universal block explorer.
