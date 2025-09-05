@@ -41,6 +41,7 @@ A curated list of bitcoin services and tools for software developers
 * [HD Wallet Scanner](https://github.com/alexk111/HD-Wallet-Scanner) - Find all used addresses in your Bitcoin HD wallets bypassing gap limits.
 * [`<qr-code>`](https://github.com/bitjson/qr-code) – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` web component.
 * [BTC Tooling](https://github.com/douvy/btc-tooling) - Bitcoin dashboard with real-time price data, a chart, orderbook, market summary, Twitter/X insights, and halving countdown data. [Live Demo](https://www.btctooling.com/)
+- [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) - Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics
 
 ## Blockchain API and Web services
 * [3xpl.com](https://3xpl.com/) - Fastest ad-free universal block explorer.
