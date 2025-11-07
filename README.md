@@ -79,6 +79,7 @@ A curated list of bitcoin services and tools for software developers
 * [Electrum](https://electrum.org/)
 * [Green](https://blockstream.com/green/)
 * [Sparrow](https://sparrowwallet.com/)
+* [Midori Wallet](https://astian.org/midori-browser/wallet)
 
 ## Privacy projects
 * [Joinmarket](https://github.com/JoinMarket-Org/joinmarket-clientserver) - Decentralized CoinJoin implementation
