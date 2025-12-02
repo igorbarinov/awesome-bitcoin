@@ -33,6 +33,7 @@ A curated list of bitcoin services and tools for software developers
 * [Nigiri](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
 * [hal](https://github.com/stevenroose/hal) - Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
 * [BitKey](https://bitkey.io) - Live USB for airgapped transactions and Bitcoin swiss army knife.
+* [Bitcoin Fee Calculator](https://www.btcbench.com/calculator.html) - Estimate transaction costs based on current network conditions.
 * [Pycoin](https://github.com/richardkiss/pycoin) - Python-based Bitcoin and alt-coin utility library.
 * [bx](https://github.com/libbitcoin/libbitcoin-explorer) - Bitcoin Command Line Tool.
 * [txwatcher](https://github.com/tsileo/txwatcher) - A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
