@@ -76,12 +76,14 @@ A curated list of bitcoin services and tools for software developers
 * [walletOS](https://www.pinestreetlabs.com/walletos/)
 
 ## Open Source Wallets
+* [Blue Wallet](https://bluewallet.io/)
 * [CoPay by BitPay](https://copay.io/)
 * [Coinb.in](https://coinb.in)
 * [Coin Wallet](https://coin.space/)
 * [Electrum](https://electrum.org/)
 * [Green](https://blockstream.com/green/)
 * [Sparrow](https://sparrowwallet.com/)
+* [Wasabi Wallet](https://wasabiwallet.io/)
 
 ## Privacy projects
 * [Joinmarket](https://github.com/JoinMarket-Org/joinmarket-clientserver) - Decentralized CoinJoin implementation
@@ -212,6 +214,7 @@ A curated list of bitcoin services and tools for software developers
 * [Svrgnty.com: Everything Bitcoin](https://svrgnty.com/) A curated list of the best Bitcoin resources.
 * [River Learn](https://river.com/learn) A collection of educational resources to learn about Bitcoin basics, investing, technology, and more.
 * [Learn me a Bitcoin - Greg Walker](https://learnmeabitcoin.com/) - extensive learning resource for bitcoin developers
+* [Bennet.org](https://bennet.org/) - Interactive technical guides for bitcoiners.
 ---
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
