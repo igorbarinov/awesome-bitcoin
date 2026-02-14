@@ -102,7 +102,7 @@ A curated list of bitcoin services and tools for software developers
 * [libsecp256k1](https://github.com/bitcoin-core/secp256k1)
 
 ## C++ Libraries
-* [Libbitcoin](https://libbitcoin.org/)
+* [Libbitcoin](https://libbitcoin.org/) - A set of cross platform C++ libraries for building bitcoin applications
 * [libwally-core](https://github.com/ElementsProject/libwally-core)
 
 ## JavaScript Libraries
