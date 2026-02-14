@@ -69,7 +69,7 @@ A curated list of bitcoin services and tools for software developers
 * [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc.
 
 ## Wallets API
-* [BitGo](https://bitgo.github.io/bitgo-docs/)
+* [BitGo](https://developers.bitgo.com)
 * [Coinbase](https://developers.coinbase.com)
 * [Blockchain.com](https://www.blockchain.com/api)
 * [BIP32](http://bip32.org)
@@ -102,7 +102,7 @@ A curated list of bitcoin services and tools for software developers
 * [libsecp256k1](https://github.com/bitcoin-core/secp256k1)
 
 ## C++ Libraries
-* [Libbitcoin](https://libbitcoin.org/)
+* [Libbitcoin](https://libbitcoin.info/)
 * [libwally-core](https://github.com/ElementsProject/libwally-core)
 
 ## JavaScript Libraries
