@@ -67,6 +67,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Market Data API
 * [CoinMetrics.io](https://docs.coinmetrics.io/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
+* [Agent Gateway](https://agent-gateway-kappa.vercel.app) - Free real-time crypto price API aggregating BTC, ETH, and 100+ tokens from 5 exchanges (Binance, Bybit, Coinbase, Kraken, Hyperliquid). No signup required for 200 free credits.
 * [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc.
 
 ## Wallets API
