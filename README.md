@@ -68,6 +68,7 @@ A curated list of bitcoin services and tools for software developers
 ## Market Data API
 * [CoinMetrics.io](https://docs.coinmetrics.io/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
 * [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc.
+* [Frostbyte Crypto API](https://frostbyte-landing.vercel.app) Free JSON REST API for real-time crypto prices, historical data, and market stats. 200 free credits, no signup required. Supports BTC and 100+ tokens.
 
 ## Wallets API
 * [BitGo](https://developers.bitgo.com)
