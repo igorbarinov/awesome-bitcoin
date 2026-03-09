@@ -230,3 +230,6 @@ Created by BlockchainU fellows.
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Igor Barinov](https://github.com/igorbarinov/) has waived all copyright and related or neighboring rights to this work.
+
+## Space & Future Projects
+- [GOOM](https://www.goom.space) - The Mars Migration Queue. Get your transferable, immutable queue position (MQID). First-come, first-served. ([GitHub](https://github.com/u9mobile-code/goom))
