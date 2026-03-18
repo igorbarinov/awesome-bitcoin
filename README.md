@@ -46,6 +46,7 @@ A curated list of bitcoin services and tools for software developers
 * [Chartscout](https://chartscout.io) - Real-time BTC chart pattern detection and trading alerts across multiple exchanges.
 * [BTC Airgap Bridge](https://github.com/paranoid-qrypto/btc-airgap-bridge) - 100% client-side tool for broadcasting signed Bitcoin transactions from air-gapped wallets.
 * [SuperScalar MCP](https://github.com/8144225309/superscalar-mcp) - MCP server for SuperScalar Bitcoin Lightning channel factories — onboard N users in one shared UTXO, no soft fork required.
+* [bitcoin-mcp](https://github.com/Bortlesboat/bitcoin-mcp) - Bitcoin MCP server for AI agents. 49 tools for fee intelligence, mempool analysis, block/transaction inspection. Zero config, MIT licensed.
 
 ## Blockchain API and Web services
 * [3xpl.com](https://3xpl.com/) - Fastest ad-free universal block explorer.
@@ -65,6 +66,7 @@ A curated list of bitcoin services and tools for software developers
 * [mempool.space](https://mempool.space/docs/api/rest) - Open source and self hostable REST, WebSocket and Electrum RPC API
 * [Bitview](https://bitview.space/) - An open source Bitcoin Core data extractor and visualizer (aka FOSS Glassnode)
 * [Maestro](https://www.gomaestro.org/) - A high-performance Bitcoin RPC and UTXO indexer API that powers applications with real-time blockchain data, mempool monitoring, and event notifications.
+* [Satoshi API](https://github.com/Bortlesboat/bitcoin-api) - Bitcoin fee intelligence REST API. 108 endpoints covering blocks, transactions, fees, mempool, mining. Self-hostable, Apache 2.0.
 
 ## Market Data API
 * [CoinMetrics.io](https://docs.coinmetrics.io/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
