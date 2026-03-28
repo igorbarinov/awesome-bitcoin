@@ -72,6 +72,7 @@ A curated list of bitcoin services and tools for software developers
 * [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc.
 
 ## Wallets API
+* [Apirone](https://apirone.com/docs/)
 * [BitGo](https://developers.bitgo.com)
 * [Coinbase](https://developers.coinbase.com)
 * [Blockchain.com](https://www.blockchain.com/api)
@@ -89,10 +90,13 @@ A curated list of bitcoin services and tools for software developers
 * [Wasabi Wallet](https://wasabiwallet.io/)
 
 ## Privacy projects
+* [RowBTC.com](https://rowbtc.com)
 * [Joinmarket](https://github.com/JoinMarket-Org/joinmarket-clientserver) - Decentralized CoinJoin implementation
 * [Jam](https://jamapp.org/) - User friendly frontend for Joinmarket
 
 ## Blockchain Explorers
+* [RowBTC.com](https://rowbtc.com) - Open analytics Bitcoin Blockchain explorer
+* [apirone.com](https://explorer.apirone.com/) - Bitcoin Blockchain Explorer
 * [3xpl.com](https://3xpl.com/bitcoin) - Fastest ad-free universal block explorer.
 * [Chain.so](http://chain.so)
 * [Blockchain.com](https://blockchain.com)
@@ -127,6 +131,7 @@ A curated list of bitcoin services and tools for software developers
 ## PHP Libraries
 * [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN)
 * [BlockTrail PHP SDK](https://github.com/blocktrail/blocktrail-sdk-php)
+* [Bit-Wasp](https://github.com/Bit-Wasp/bitcoin-php)
 
 ## Ruby Libraries
 * [Bitcoin-ruby](https://github.com/lian/bitcoin-ruby)
