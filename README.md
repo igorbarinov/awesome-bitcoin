@@ -46,6 +46,7 @@ A curated list of bitcoin services and tools for software developers
 * [Chartscout](https://chartscout.io) - Real-time BTC chart pattern detection and trading alerts across multiple exchanges.
 * [BTC Airgap Bridge](https://github.com/paranoid-qrypto/btc-airgap-bridge) - 100% client-side tool for broadcasting signed Bitcoin transactions from air-gapped wallets.
 * [SuperScalar MCP](https://github.com/8144225309/superscalar-mcp) - MCP server for SuperScalar Bitcoin Lightning channel factories — onboard N users in one shared UTXO, no soft fork required.
+* [bitcoin-mcp](https://github.com/Bortlesboat/bitcoin-mcp) - Bitcoin MCP server for AI agents with 49 tools covering fee intelligence, mempool analysis, block/transaction inspection, and mining data. Zero-config, MIT.
 
 ## Blockchain API and Web services
 * [3xpl.com](https://3xpl.com/) - Fastest ad-free universal block explorer.
