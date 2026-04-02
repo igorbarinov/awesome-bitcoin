@@ -92,6 +92,7 @@ A curated list of bitcoin services and tools for software developers
 ## Privacy projects
 * [Joinmarket](https://github.com/JoinMarket-Org/joinmarket-clientserver) - Decentralized CoinJoin implementation
 * [Jam](https://jamapp.org/) - User friendly frontend for Joinmarket
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 
 ## Blockchain Explorers
 * [3xpl.com](https://3xpl.com/bitcoin) - Fastest ad-free universal block explorer.
