@@ -78,6 +78,8 @@ A curated list of bitcoin services and tools for software developers
 * [Blockchain.com](https://www.blockchain.com/api)
 * [BIP32](http://bip32.org)
 * [walletOS](https://www.pinestreetlabs.com/walletos/)
+* [zcash-ika](https://github.com/Frontier-Compute/zcash-ika) - Split-key Bitcoin custody via 2PC-MPC. Same key signs BTC, ZEC, and ETH. On-chain spend policy.
+
 
 ## Open Source Wallets
 * [Blue Wallet](https://bluewallet.io/)
