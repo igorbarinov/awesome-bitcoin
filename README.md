@@ -41,16 +41,17 @@ A curated list of bitcoin services and tools for software developers
 * [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) - A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
 * [Mining visualization](https://yogh.io/landing/)
 * [HD Wallet Scanner](https://github.com/alexk111/HD-Wallet-Scanner) - Find all used addresses in your Bitcoin HD wallets bypassing gap limits.
-* [`<qr-code>`](https://github.com/bitjson/qr-code) – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` web component.
+* [`<qr-code>`](https://github.com/bitjson/qr-code) â A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` web component.
 * [Bitcoin Serverless Donations](https://github.com/tombennet/bitcoin-serverless-donations) - Self-custodial serverless donation widget with address rotation derived from an XPUB.
 * [BTC Tooling](https://github.com/douvy/btc-tooling) - Bitcoin dashboard with real-time price data, a chart, orderbook, market summary, Twitter/X insights, and halving countdown data. [Live Demo](https://www.btctooling.com/)
 * [Chartscout](https://chartscout.io) - Real-time BTC chart pattern detection and trading alerts across multiple exchanges.
 * [BTC Airgap Bridge](https://github.com/paranoid-qrypto/btc-airgap-bridge) - 100% client-side tool for broadcasting signed Bitcoin transactions from air-gapped wallets.
-* [SuperScalar MCP](https://github.com/8144225309/superscalar-mcp) - MCP server for SuperScalar Bitcoin Lightning channel factories — onboard N users in one shared UTXO, no soft fork required.
+* [SuperScalar MCP](https://github.com/8144225309/superscalar-mcp) - MCP server for SuperScalar Bitcoin Lightning channel factories â onboard N users in one shared UTXO, no soft fork required.
 
 ## Blockchain API and Web services
 * [3xpl.com](https://3xpl.com/) - Fastest ad-free universal block explorer.
 * [Bitquery.io](https://bitquery.io/) - Bitquery provides blockchain data, offering real-time streaming APIs for 40+ chains, NFT APIs, and a money flow investigation tool.
+* [bitcoinbottom.app](https://bitcoinbottom.app) - Free Bitcoin cycle bottom probability tracker. Aggregates 25 on-chain signals (MVRV Z-Score, Puell Multiple, Hash Ribbon, Fear & Greed, etc.) into a daily score. No signup required.
 * [block.io](https://block.io)
 * [blockchair.com](https://blockchair.com/) - Universal blockchain explorer and search engine.
 * [BlockCypher](https://www.blockcypher.com)
@@ -119,11 +120,11 @@ A curated list of bitcoin services and tools for software developers
 * [Cryptocoin](http://cryptocoinjs.com/#modules)
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs)
 * [bcoin](https://github.com/bcoin-org/bcoin) - Javascript bitcoin library for node.js and browsers.
-* [Libauth](https://libauth.org/) – A lightweight, zero-dependency, JavaScript/TypeScript bitcoin library.
-* [noble-curves](https://github.com/paulmillr/noble-curves) — audited implementation of secp256k1 + schnorr in pure typescript
-* [noble-secp256k1](https://github.com/paulmillr/noble-secp256k1) — alternative implementation of secp256k1: size is only 4KB gzipped; lots of comments, very valuable for learning how algorithms work
-* [scure-btc-signer](https://github.com/paulmillr/scure-btc-signer) — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
-* [bitcoin-sdk-js](https://github.com/ChrisCho-H/bitcoin-sdk-js) — Bitcoin TypeScript/JavaScript Library for NodeJS, Browser and Mobile. Segwit & Taproot support.
+* [Libauth](https://libauth.org/) â A lightweight, zero-dependency, JavaScript/TypeScript bitcoin library.
+* [noble-curves](https://github.com/paulmillr/noble-curves) â audited implementation of secp256k1 + schnorr in pure typescript
+* [noble-secp256k1](https://github.com/paulmillr/noble-secp256k1) â alternative implementation of secp256k1: size is only 4KB gzipped; lots of comments, very valuable for learning how algorithms work
+* [scure-btc-signer](https://github.com/paulmillr/scure-btc-signer) â audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
+* [bitcoin-sdk-js](https://github.com/ChrisCho-H/bitcoin-sdk-js) â Bitcoin TypeScript/JavaScript Library for NodeJS, Browser and Mobile. Segwit & Taproot support.
 
 ## PHP Libraries
 * [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN)
@@ -177,7 +178,7 @@ A curated list of bitcoin services and tools for software developers
 * [Mnemonic Code generator](https://iancoleman.io/bip39/)
 * [blockchain-demo](https://github.com/anders94/blockchain-demo/) - A web-based demonstration of blockchain concepts.
 * [Bitcoin Script Debugger](https://github.com/liuhongchao/bitcoin4s) - Visualize Bitcoin script execution for real transactions.
-* [Bitauth IDE](https://ide.bitauth.com/) – An interactive development environment for Bitcoin contracts.
+* [Bitauth IDE](https://ide.bitauth.com/) â An interactive development environment for Bitcoin contracts.
 * [ChainQuery Bitcoin RPC](https://chainquery.com) - Run select bitcoin RPC API calls and read full RPC docs in your browser.
 * [Bithoven IDE](https://bithoven-lang.github.io/bithoven/ide/) -  Web IDE for Bithoven, A High-Level, Imperative Language for Bitcoin Smart Contracts.
 
@@ -185,7 +186,7 @@ A curated list of bitcoin services and tools for software developers
 * [BitcoinDatabaseGenerator](https://github.com/ladimolnar/BitcoinDatabaseGenerator) - A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database.
 * [Blockparser+SQL](https://github.com/mcdee/blockparser) - Fast, quick and dirty bitcoin blockchain parser.
 * [BitcoinABE](https://github.com/bitcoin-abe/bitcoin-abe) - Abe: block browser for Bitcoin and similar currencies.
-* [Chaingraph](https://github.com/bitauth/chaingraph/) – A multi-node blockchain indexer and GraphQL API.
+* [Chaingraph](https://github.com/bitauth/chaingraph/) â A multi-node blockchain indexer and GraphQL API.
 
 ## Full nodes
 * [btcd](https://github.com/btcsuite/btcd/) - Go-based full node since 2013.
