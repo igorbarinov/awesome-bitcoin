@@ -7,7 +7,7 @@ A curated list of bitcoin services and tools for software developers
 
 - [Utilities](#utilities)
 - [Blockchain API and Web services](#blockchain-api-and-web-services)
-- [Wallets API](#wallets-api)h
+- [Wallets API](#wallets-api)
 - [Open Source wallets](#open-source-wallets)
 - [Blockchain Explorers](#blockchain-explorers)
 - [C Libraries](#c-libraries)
