@@ -154,6 +154,7 @@ A curated list of bitcoin services and tools for software developers
 * [BitcoinJ](https://bitcoinj.github.io)
 * [XChange](https://github.com/knowm/XChange) - Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
 * [Bitcoin Spring Boot Starter](https://github.com/theborakompanioni/bitcoin-spring-boot-starter) - Bitcoin integration for Spring Boot applications.
+* [bech32](https://github.com/NostrGameEngine/bech32) - Bech32 and Bech32m encode/decode library.
 
 ## Scala libraries
 > Note that you can also use [Java libraries](#java-libraries) in Scala.
