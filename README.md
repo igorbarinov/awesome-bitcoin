@@ -7,7 +7,7 @@ A curated list of bitcoin services and tools for software developers
 
 - [Utilities](#utilities)
 - [Blockchain API and Web services](#blockchain-api-and-web-services)
-- [Wallets API](#wallets-api)
+- [Wallets API](#wallets-api)h
 - [Open Source wallets](#open-source-wallets)
 - [Blockchain Explorers](#blockchain-explorers)
 - [C Libraries](#c-libraries)
@@ -222,6 +222,7 @@ A curated list of bitcoin services and tools for software developers
 * [Learn me a Bitcoin - Greg Walker](https://learnmeabitcoin.com/) - extensive learning resource for bitcoin developers
 * [Bennet.org](https://bennet.org/) - Interactive technical guides for bitcoiners.
 * [Knowing Bitcoin](https://knowingbitcoin.com/) - Comprehensive Bitcoin education with 214+ in-depth guides on Lightning Network, wallets, security, privacy, and nodes.
+* [Bitcoin.diy](https://bitcoin.diy) - Bitcoin-only education and hardware wallet reviews, focused on self-custody for beginners and intermediate users.
 ---
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
