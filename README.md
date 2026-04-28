@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/igorbarinov-awesome-bitcoin-badge.png)](https://mseep.ai/app/igorbarinov-awesome-bitcoin)
+
 Awesome Bitcoin
 ===============
 A curated list of bitcoin services and tools for software developers
