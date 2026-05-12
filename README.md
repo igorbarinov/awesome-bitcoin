@@ -221,6 +221,8 @@ A curated list of bitcoin services and tools for software developers
 * [Learn me a Bitcoin - Greg Walker](https://learnmeabitcoin.com/) - extensive learning resource for bitcoin developers
 * [Bennet.org](https://bennet.org/) - Interactive technical guides for bitcoiners.
 * [Knowing Bitcoin](https://knowingbitcoin.com/) - Comprehensive Bitcoin education with 214+ in-depth guides on Lightning Network, wallets, security, privacy, and nodes.
+* [RustChain](https://github.com/Scottcjn/Rustchain) - Alternative blockchain exploring Proof-of-Antiquity: the consensus where old machines outearn new ones. AI-powered hardware fingerprinting (6 checks), 15+ CPU architectures, DePIN for vintage hardware. A different take on mining - hardware value increases with age.
+
 ---
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
