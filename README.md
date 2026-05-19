@@ -58,6 +58,7 @@ A curated list of bitcoin services and tools for software developers
 * [Insight](https://insight.is)
 * [Chain.com](https://chain.com)
 * [Coinbase Wallet](https://wallet.coinbase.com/)
+* [LightningFaucet](https://lightningfaucet.com/?utm_source=github&utm_medium=referral) - Bitcoin Lightning faucet with free sats, sat-denominated games, poker, and prediction markets.
 * [Chainradar API](https://github.com/yasaricli/chainradar-api) - Blockchain Explorer API for Chainradar.
 * [One-Time Address](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
 * [Cryptocurrency Alerting](https://cryptocurrencyalerting.com/blockchain-alerts.html) - Bitcoin wallet monitoring and blockchain alerts.
