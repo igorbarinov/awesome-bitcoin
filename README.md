@@ -176,6 +176,7 @@ A curated list of bitcoin services and tools for software developers
 * [Bitcore Playground](https://bitcore.io/playground/)
 * [Mnemonic Code generator](https://iancoleman.io/bip39/)
 * [blockchain-demo](https://github.com/anders94/blockchain-demo/) - A web-based demonstration of blockchain concepts.
+* [LightningFaucet](https://lightningfaucet.com/?utm_source=github&utm_medium=referral&utm_campaign=directory-listing) - Bitcoin/Lightning faucet for trying small sat payments.
 * [Bitcoin Script Debugger](https://github.com/liuhongchao/bitcoin4s) - Visualize Bitcoin script execution for real transactions.
 * [Bitauth IDE](https://ide.bitauth.com/) – An interactive development environment for Bitcoin contracts.
 * [ChainQuery Bitcoin RPC](https://chainquery.com) - Run select bitcoin RPC API calls and read full RPC docs in your browser.
