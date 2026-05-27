@@ -212,6 +212,7 @@ A curated list of bitcoin services and tools for software developers
 * [Bitcoin Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/bitcoin-curriculum).
 * [Lightning Network Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/lightning-curriculum).
 * [btcinformation.org / Developer Documentation](https://btcinformation.org/en/developer-documentation) - Find useful resources, guides and reference material for developers.
+* [Bitcoin Sin Ruido](https://bitcoinsinruidos.com) - Technical Bitcoin reference in Spanish: Lightning, Taproot, BitVM, covenants. Protocol-focused, no price content.
 
 ## Course
 * [Bitcoin & Cryptocurrency](http://bitcoinbook.cs.princeton.edu/).
