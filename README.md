@@ -214,6 +214,7 @@ A curated list of bitcoin services and tools for software developers
 * [btcinformation.org / Developer Documentation](https://btcinformation.org/en/developer-documentation) - Find useful resources, guides and reference material for developers.
 
 ## Course
+* [Learn Bitcoin](https://www.learnbitcoin.com) - Bitcoin only. No bullshit. Have fun.
 * [Bitcoin & Cryptocurrency](http://bitcoinbook.cs.princeton.edu/).
 
 ## Additional Resources
