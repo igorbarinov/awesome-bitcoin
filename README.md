@@ -76,6 +76,7 @@ A curated list of bitcoin services and tools for software developers
 * [CoinPaprika](https://api.coinpaprika.com) Free crypto market data API. 12,000+ coins, 350+ exchanges, tickers, OHLCV, historical prices. No API key for free tier.
 * [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc.
 * [PreReason](https://www.prereason.com) - Pre-analyzed Bitcoin market briefings via REST API. Covers BTC price, hash rate, difficulty, mining production costs, treasury holdings (30 public companies), and macro signals that move Bitcoin (Fed balance sheet, M2, Treasury yields). Returns trend direction, confidence scores, and regime classification instead of raw numbers. Free tier available.
+* [Athenum](https://athenum.xyz) Unified crypto and derivatives analytics terminal aggregating order flow, open interest, funding and liquidations across 14 exchanges (BTC spot and perpetuals included). Web terminal with a free tier; REST API access on the Pro+ plan.
 
 ## Wallets API
 * [BitGo](https://developers.bitgo.com)
