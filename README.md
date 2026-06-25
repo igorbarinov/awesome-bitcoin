@@ -52,6 +52,7 @@ A curated list of bitcoin services and tools for software developers
 * [CryptoCalk](https://cryptocalk.com) - Bitcoin profitability and on-chain calculators: ASIC/GPU mining ROI, hash rate converter, halving countdown, Mayer Multiple, Stock-to-Flow (S2F), Rainbow chart, profit/loss, DCA simulator, tax estimator, liquidation price. Client-side, no signup, available in 6 languages.
 * [dont-trust-verify](https://dont-trust-verify.com) - Bitcoin-only client-side tools and self-custody education: 22 calculators, validators and decoders (BIP-39 validator, tx-stuck checker, fee estimator, wallet installer SHA-256 verifier, self-custody score quiz), plus primary-sourced guides and hardware wallet reviews. No signup, no tracking, EN + TH.
 
+- [CoinPing](https://t.me/CoinPingAlertBot) — Multi-condition crypto price alerts for Telegram. Free tier. [Source](https://github.com/SeigeC/coinping-bot) (Go)
 ## Blockchain API and Web services
 * [3xpl.com](https://3xpl.com/) - Fastest ad-free universal block explorer.
 * [Bitquery.io](https://bitquery.io/) - Bitquery provides blockchain data, offering real-time streaming APIs for 40+ chains, NFT APIs, and a money flow investigation tool.
