@@ -30,6 +30,7 @@ A curated list of bitcoin services and tools for software developers
 
 
 ## Utilities
+* [SatoshiTrails](https://satoshitrailblazer.com) - Bitcoin strategy tools — DCA calculators, tax workbooks, inheritance planner, and 17 tools for long-term stackers.
 * [Nigiri](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
 * [hal](https://github.com/stevenroose/hal) - Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
 * [BitKey](https://bitkey.io) - Live USB for airgapped transactions and Bitcoin swiss army knife.
