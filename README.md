@@ -38,6 +38,7 @@ A curated list of bitcoin services and tools for software developers
 * [bx](https://github.com/libbitcoin/libbitcoin-explorer) - Bitcoin Command Line Tool.
 * [Deadhand Protocol](https://deadhandprotocol.com) - Dead man's switch for crypto using Shamir's Secret Sharing to protect seed phrases and ensure inheritance.
 * [txwatcher](https://github.com/tsileo/txwatcher) - A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
+* [BTCDash](https://btcdash.org) - Free real-time Bitcoin dashboard: price with long-term MAs, halving countdown, hashrate & difficulty, fee market, Fear & Greed, on-chain metrics (MVRV, realized price, S2F) and Lightning stats. 74 live cards, client-side only, no signup. Includes a TV mode for wall screens.
 * [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) - A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
 * [Mining visualization](https://yogh.io/landing/)
 * [HD Wallet Scanner](https://github.com/alexk111/HD-Wallet-Scanner) - Find all used addresses in your Bitcoin HD wallets bypassing gap limits.
