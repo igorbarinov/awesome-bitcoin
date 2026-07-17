@@ -49,6 +49,7 @@ A curated list of bitcoin services and tools for software developers
 * [BTC Airgap Bridge](https://github.com/paranoid-qrypto/btc-airgap-bridge) - 100% client-side tool for broadcasting signed Bitcoin transactions from air-gapped wallets.
 * [SuperScalar MCP](https://github.com/8144225309/superscalar-mcp) - MCP server for SuperScalar Bitcoin Lightning channel factories — onboard N users in one shared UTXO, no soft fork required.
 * [Lightning Memory](https://github.com/singularityjason/lightning-memory) - Open-source memory layer for AI agents in the Bitcoin/Lightning economy. L402 payment gateway, vendor reputation, spending anomaly detection.
+* [loop-mcp](https://github.com/Loop-XXI/loop-mcp) - L402-native MCP server exposing pay-per-call Bitcoin and developer tools (price, fee timing, LNURL resolution, tx decoding) for AI agents. Agents pay 5-25 sats over Lightning with no API key. MIT licensed.
 * [CryptoCalk](https://cryptocalk.com) - Bitcoin profitability and on-chain calculators: ASIC/GPU mining ROI, hash rate converter, halving countdown, Mayer Multiple, Stock-to-Flow (S2F), Rainbow chart, profit/loss, DCA simulator, tax estimator, liquidation price. Client-side, no signup, available in 6 languages.
 * [dont-trust-verify](https://dont-trust-verify.com) - Bitcoin-only client-side tools and self-custody education: 22 calculators, validators and decoders (BIP-39 validator, tx-stuck checker, fee estimator, wallet installer SHA-256 verifier, self-custody score quiz), plus primary-sourced guides and hardware wallet reviews. No signup, no tracking, EN + TH.
 
@@ -70,6 +71,7 @@ A curated list of bitcoin services and tools for software developers
 * [mempool.space](https://mempool.space/docs/api/rest) - Open source and self hostable REST, WebSocket and Electrum RPC API
 * [Bitview](https://bitview.space/) - An open source Bitcoin Core data extractor and visualizer (aka FOSS Glassnode)
 * [Maestro](https://www.gomaestro.org/) - A high-performance Bitcoin RPC and UTXO indexer API that powers applications with real-time blockchain data, mempool monitoring, and event notifications.
+* [Loop Gateway](https://api.loopxxi.com) - OpenAI-compatible LLM API metered in Bitcoin sats over Lightning (L402) instead of dollars. 300+ models via OpenRouter, no accounts, no subscriptions. Self-hostable, MIT licensed.
 
 ## Market Data API
 * [CoinGapRadar](https://coingapradar.com) - Real-time crypto premium tracker across 9 countries. Monitor kimchi premium and regional price gaps. Free, no signup.
