@@ -54,6 +54,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Blockchain API and Web services
 * [3xpl.com](https://3xpl.com/) - Fastest ad-free universal block explorer.
+* [Bitcoin Investment Calculator](https://bitcoin555.com/if-you-had-invested) - See what a past Bitcoin investment would be worth today, with monthly historical data since 2013.
 * [Bitquery.io](https://bitquery.io/) - Bitquery provides blockchain data, offering real-time streaming APIs for 40+ chains, NFT APIs, and a money flow investigation tool.
 * [block.io](https://block.io)
 * [blockchair.com](https://blockchair.com/) - Universal blockchain explorer and search engine.
