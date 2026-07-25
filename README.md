@@ -30,6 +30,7 @@ A curated list of bitcoin services and tools for software developers
 
 
 ## Utilities
+* [Twenty-One Million](https://why21million.com) - Free static Bitcoin toolkit (satoshi converter, halving countdown, stacking-plan calculator) plus a plain-arithmetic explainer book. No accounts, no tracking, no live price feed.
 * [Nigiri](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
 * [hal](https://github.com/stevenroose/hal) - Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
 * [BitKey](https://bitkey.io) - Live USB for airgapped transactions and Bitcoin swiss army knife.
