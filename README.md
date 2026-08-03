@@ -110,6 +110,7 @@ A curated list of bitcoin services and tools for software developers
 * [Blockexplorer.com](https://blockexplorer.com)
 * [Smartbit](https://www.smartbit.com.au)
 * [mempool.space](https://mempool.space/) - Open source, self hostable blockchain, mempool and lightning network explorer
+- [Paygate Explorer](https://paygate.love/explorer) - Free multi-chain explorer for BTC, LTC, DOGE, ETH, BSC, TON, TRON and Solana with address/tx lookup and rich lists.
 
 ## C Libraries
 * [libsecp256k1](https://github.com/bitcoin-core/secp256k1)
