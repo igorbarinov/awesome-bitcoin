@@ -99,6 +99,7 @@ A curated list of bitcoin services and tools for software developers
 ## Privacy projects
 * [Joinmarket](https://github.com/JoinMarket-Org/joinmarket-clientserver) - Decentralized CoinJoin implementation
 * [Jam](https://jamapp.org/) - User friendly frontend for Joinmarket
+* [Bisq](https://bisq.info/no-kyc-hub/) - Open-source, decentralized P2P Bitcoin exchange with no KYC requirements.
 
 ## Blockchain Explorers
 * [3xpl.com](https://3xpl.com/bitcoin) - Fastest ad-free universal block explorer.
