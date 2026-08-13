@@ -37,6 +37,7 @@ A curated list of bitcoin services and tools for software developers
 * [Pycoin](https://github.com/richardkiss/pycoin) - Python-based Bitcoin and alt-coin utility library.
 * [bx](https://github.com/libbitcoin/libbitcoin-explorer) - Bitcoin Command Line Tool.
 * [Deadhand Protocol](https://deadhandprotocol.com) - Dead man's switch for crypto using Shamir's Secret Sharing to protect seed phrases and ensure inheritance.
+* [Paranoid Tools](https://github.com/Di-kairos/paranoid-tools) - CLI toolkit for the lifecycle of a seed phrase: encrypted vault, panic switch, traceless notes and Shamir's Secret Sharing with typo-correcting paper shares. Ed25519-signed releases, macOS/Windows.
 * [txwatcher](https://github.com/tsileo/txwatcher) - A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
 * [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) - A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
 * [Mining visualization](https://yogh.io/landing/)
