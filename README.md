@@ -72,6 +72,7 @@ A curated list of bitcoin services and tools for software developers
 * [Bitview](https://bitview.space/) - An open source Bitcoin Core data extractor and visualizer (aka FOSS Glassnode)
 * [Maestro](https://www.gomaestro.org/) - A high-performance Bitcoin RPC and UTXO indexer API that powers applications with real-time blockchain data, mempool monitoring, and event notifications.
 * [OnFinality](https://onfinality.io/en/networks/bitcoin) - Bitcoin RPC endpoints and API access for dApps, wallets, analytics, and backend services.
+* [btcglobe.live](https://btcglobe.live/join) - Free JSON endpoints for node, network and chain data, served live from two self-hosted Bitcoin nodes. No key, no signup, CORS open.
 
 ## Market Data API
 * [CoinGapRadar](https://coingapradar.com) - Real-time crypto premium tracker across 9 countries. Monitor kimchi premium and regional price gaps. Free, no signup.
