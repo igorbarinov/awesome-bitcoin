@@ -95,6 +95,7 @@ A curated list of bitcoin services and tools for software developers
 * [Electrum](https://electrum.org/)
 * [Green](https://blockstream.com/green/)
 * [Sparrow](https://sparrowwallet.com/)
+* [Vultisig](https://vultisig.com/) - Seedless, fully self-custodial wallet that splits key generation and signing across your own devices using MPC threshold signatures. Open source apps for iOS, Android, desktop, and browser.
 * [Wasabi Wallet](https://wasabiwallet.io/)
 
 ## Privacy projects
