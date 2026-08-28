@@ -157,6 +157,7 @@ A curated list of bitcoin services and tools for software developers
 * [pycoin](https://github.com/richardkiss/pycoin) - Python library for Bitcoin keys, signatures, transactions. Includes full VM implementation and tools for manipulating keys (ku) and transactions (tx).
 * [bitcoin_tools](https://github.com/sr-gi/bitcoin_tools) - Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation.
 * [pybtc](https://github.com/mohanson/pybtc) - Python BTC is an experimental project that aims to provide human-friendly interfaces for common BTC operations.
+* [btcfunkpay](https://github.com/lucarocchi/btcfunkpay) - Self-custodial on-chain payment library and REST server. Derives addresses from an xpub (BIP84), watches for payments over Bitcoin Core RPC and fires webhooks. No private keys on the server.
 
 ## Java Libraries
 > Note that you can also use [Scala libraries](#scala-libraries) in Java.
