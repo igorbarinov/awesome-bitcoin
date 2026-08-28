@@ -93,6 +93,7 @@ A curated list of bitcoin services and tools for software developers
 * [Coinb.in](https://coinb.in)
 * [Coin Wallet](https://coin.space/)
 * [Electrum](https://electrum.org/)
+* [FunkPayAI](https://github.com/lucarocchi/funkpayai) - Desktop wallet (Electron) that exposes an MCP server so AI agents can spend bitcoin under user-defined approval limits.
 * [Green](https://blockstream.com/green/)
 * [Sparrow](https://sparrowwallet.com/)
 * [Wasabi Wallet](https://wasabiwallet.io/)
