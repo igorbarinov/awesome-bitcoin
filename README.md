@@ -196,6 +196,7 @@ A curated list of bitcoin services and tools for software developers
 * [Blockparser+SQL](https://github.com/mcdee/blockparser) - Fast, quick and dirty bitcoin blockchain parser.
 * [BitcoinABE](https://github.com/bitcoin-abe/bitcoin-abe) - Abe: block browser for Bitcoin and similar currencies.
 * [Chaingraph](https://github.com/bitauth/chaingraph/) – A multi-node blockchain indexer and GraphQL API.
+* [nodsig](https://github.com/amenano/nodsig) - Turns your node's blocks into sealed local artifacts: chain questions become offline lookups, and every answer carries a fingerprint anyone can recompute. Python stdlib only.
 
 ## Full nodes
 * [btcd](https://github.com/btcsuite/btcd/) - Go-based full node since 2013.
