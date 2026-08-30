@@ -52,6 +52,7 @@ A curated list of bitcoin services and tools for software developers
 * [CryptoCalk](https://cryptocalk.com) - Bitcoin profitability and on-chain calculators: ASIC/GPU mining ROI, hash rate converter, halving countdown, Mayer Multiple, Stock-to-Flow (S2F), Rainbow chart, profit/loss, DCA simulator, tax estimator, liquidation price. Client-side, no signup, available in 6 languages.
 * [Freedom Clock](https://freedomclock.io) - Bitcoin-aware FIRE calculator with sell, borrow, and borrow-then-sell spend models. Converts savings and BTC holdings into years of financial freedom. Fully local, no account, MIT. Also an open-source e-ink desk device (~$30).
 * [dont-trust-verify](https://dont-trust-verify.com) - Bitcoin-only client-side tools and self-custody education: 22 calculators, validators and decoders (BIP-39 validator, tx-stuck checker, fee estimator, wallet installer SHA-256 verifier, self-custody score quiz), plus primary-sourced guides and hardware wallet reviews. No signup, no tracking, EN + TH.
+* [SolveBar](https://solvebar.com) - Free browser-based crypto calculators: DCA calculator, crypto tax calculator, P&L calculator, staking rewards, and liquidation price, alongside a BIP39 mnemonic generator. Client-side, no signup.
 
 ## Blockchain API and Web services
 * [3xpl.com](https://3xpl.com/) - Fastest ad-free universal block explorer.
