@@ -111,6 +111,7 @@ A curated list of bitcoin services and tools for software developers
 * [Blockexplorer.com](https://blockexplorer.com)
 * [Smartbit](https://www.smartbit.com.au)
 * [mempool.space](https://mempool.space/) - Open source, self hostable blockchain, mempool and lightning network explorer
+* [OpenBitcoin](https://openbitcoin.com/) - Bitcoin-only explorer, node census and tools, served from its own full node.
 
 ## C Libraries
 * [libsecp256k1](https://github.com/bitcoin-core/secp256k1)
