@@ -235,6 +235,7 @@ A curated list of bitcoin services and tools for software developers
 * [Knowing Bitcoin](https://knowingbitcoin.com/) - Comprehensive Bitcoin education with 214+ in-depth guides on Lightning Network, wallets, security, privacy, and nodes.
 * [Bitcoin.diy](https://bitcoin.diy) - Bitcoin-only education and hardware wallet reviews, focused on self-custody for beginners and intermediate users.
 * [Bitcoin Institute](https://bitcoin-institute.pages.dev) - Bilingual (EN/JP) archive of Satoshi Nakamoto primary sources: forum posts, emails, and mailing-list messages, each linked to its original source.
+* [The Bitcoin Act](https://thebitcoinact.xyz) - Twice-weekly newsletter on Bitcoin law and regulation, covering the bills, rulings and enforcement actions affecting self-custody, tax and inheritance across the US and worldwide.
 ---
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
