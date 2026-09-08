@@ -27,8 +27,7 @@ A curated list of bitcoin services and tools for software developers
 - [Read](#read)
 - [Course](#course)
 - [Additional Resources](#additional-resources)
-
-
+- [Web3Decentralization](https://web3decentralization.com) - Free, open-source Web3 learning hub (courses, glossary, certificates) with a live Nakamoto-Coefficient terminal ranking 12 L1 chains; code MIT, content CC-BY-4.0, data CC0.
 ## Utilities
 * [Nigiri](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
 * [hal](https://github.com/stevenroose/hal) - Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
