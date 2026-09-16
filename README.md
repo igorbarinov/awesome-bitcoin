@@ -112,6 +112,7 @@ A curated list of bitcoin services and tools for software developers
 * [Blockexplorer.com](https://blockexplorer.com)
 * [Smartbit](https://www.smartbit.com.au)
 * [mempool.space](https://mempool.space/) - Open source, self hostable blockchain, mempool and lightning network explorer
+* [d2index](https://d2index.com/) - Bitcoin explorer with a live unconfirmed transaction feed, mempool fees, and address lists covering exchanges, mining pools and OFAC-sanctioned addresses. Large transfers are sized by net value rather than output total.
 
 ## C Libraries
 * [libsecp256k1](https://github.com/bitcoin-core/secp256k1)
