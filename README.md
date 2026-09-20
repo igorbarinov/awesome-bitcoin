@@ -150,6 +150,7 @@ A curated list of bitcoin services and tools for software developers
 ## Rust Libraries
 * [Bitcoin Dev Kit (BDK)](https://bitcoindevkit.org/) - With BDK, you can seamlessly build cross platform mobile wallets
 * [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) - support for de/serialization, parsing and executing on data-structures and network messages.
+* [pqbit](https://github.com/BartoszOsiej/pqbit) - post-quantum Bitcoin implementation in Rust: ML-DSA-44/SLH-DSA (FIPS 204/205) signatures from genesis, UTXO + PoW testnet node, fair-launch.
 * [Lightning Dev Kit (LDK)](https://lightningdevkit.org/) -  Complete Lightning implementation packaged as an SDK
 * [Bithoven](https://github.com/ChrisCho-H/bithoven) -  A High-Level, Imperative Language for Bitcoin Smart Contracts, featuring an LR(1) parser with static analysis for compile-time safety.
 
