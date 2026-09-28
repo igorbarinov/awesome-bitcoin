@@ -194,6 +194,7 @@ A curated list of bitcoin services and tools for software developers
 * [ChainQuery Bitcoin RPC](https://chainquery.com) - Run select bitcoin RPC API calls and read full RPC docs in your browser.
 * [Bithoven IDE](https://bithoven-lang.github.io/bithoven/ide/) -  Web IDE for Bithoven, A High-Level, Imperative Language for Bitcoin Smart Contracts.
 * [Raw transaction decoder](https://808bits.com/tools/raw-transaction-decoder/) - Paste a raw Bitcoin transaction (legacy, SegWit or Taproot) and see every byte named: scripts disassembled, addresses derived, witness and sequence fields explained. Runs in the browser, no server.
+* [bolt11-decoder](https://visawestern.github.io/bolt11-decoder/) - Client-side BOLT11 invoice decoder: prefix/amount/timestamp/p/s/d/h/x/c/n/f/r/9/m/signature-presence, zero dependencies, runs in the browser, no server.
 
 ## Blockchain dump
 * [BitcoinDatabaseGenerator](https://github.com/ladimolnar/BitcoinDatabaseGenerator) - A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database.
