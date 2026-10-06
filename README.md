@@ -78,6 +78,7 @@ A curated list of bitcoin services and tools for software developers
 * [Luganodes RPC](https://rpc.luganodes.com) - Bitcoin Core JSON-RPC endpoints on dedicated bare-metal infrastructure with a free tier.
 
 ## Market Data API
+* [Aperiodic](https://aperiodic.io) - Point-in-time microstructure, liquidity and order-flow metrics plus raw trades and quotes for BTC and other crypto perpetuals on venues including Binance, OKX and Hyperliquid, as parquet via CLI, REST API and Python SDK. Free BTC perp preview with no API key; paid plans for full history.
 * [CoinGapRadar](https://coingapradar.com) - Real-time crypto premium tracker across 9 countries. Monitor kimchi premium and regional price gaps. Free, no signup.
 * [CoinMetrics.io](https://docs.coinmetrics.io/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
 * [CoinPaprika](https://api.coinpaprika.com) Free crypto market data API. 12,000+ coins, 350+ exchanges, tickers, OHLCV, historical prices. No API key for free tier.
