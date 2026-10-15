@@ -55,7 +55,7 @@ A curated list of bitcoin services and tools for software developers
 * [Freedom Clock](https://freedomclock.io) - Bitcoin-aware FIRE calculator with sell, borrow, and borrow-then-sell spend models. Converts savings and BTC holdings into years of financial freedom. Fully local, no account, MIT. Also an open-source e-ink desk device (~$30).
 * [dont-trust-verify](https://dont-trust-verify.com) - Bitcoin-only client-side tools and self-custody education: 22 calculators, validators and decoders (BIP-39 validator, tx-stuck checker, fee estimator, wallet installer SHA-256 verifier, self-custody score quiz), plus primary-sourced guides and hardware wallet reviews. No signup, no tracking, EN + TH.
 * [BackPoW](https://backpow.com/Bitcoin) - Solo block odds, cost of production and break-even electricity per rig, from live difficulty.
-* [btc-toolkit](https://github.com/devdavidejesus/btc-toolkit) - Zero-dependency Python CLI that decodes OP_RETURN messages and inspects transactions, addresses, UTXOs, fees and blocks through the Mempool.space API or your own instance. Install with pip or Homebrew.
+* [btc-toolkit](https://github.com/devdavidejesus/btc-toolkit) - Zero-dependency Python CLI to read and verify Bitcoin from the terminal: OP_RETURN messages and inscriptions, raw transaction decoding, offline address validation, and Merkle-proof verification against the block's proof of work. Install with pip, pipx, uv or Homebrew.
 
 ## Blockchain API and Web services
 * [3xpl.com](https://3xpl.com/) - Fastest ad-free universal block explorer.
