@@ -242,6 +242,7 @@ A curated list of bitcoin services and tools for software developers
 * [Bitcoin.diy](https://bitcoin.diy) - Bitcoin-only education and hardware wallet reviews, focused on self-custody for beginners and intermediate users.
 * [LearnBitcoin.com](https://www.learnbitcoin.com/) - Bitcoin-only education: a guided six-chapter journey, 17 long-form rabbit holes, and a ~470-entry glossary, CC-BY-SA with no ads or affiliates.
 * [Bitcoin Institute](https://bitcoin-institute.pages.dev) - Bilingual (EN/JP) archive of Satoshi Nakamoto primary sources: forum posts, emails, and mailing-list messages, each linked to its original source.
+* [Visualize Bitcoin](https://visualizebitcoin.org/) - A visual companion for learning Bitcoin: the whole system drawn as one live 3D machine running on real network data. Watch transactions wait in the mempool, miners race for the next block, difficulty adjust, the halving cut the reward and nodes check every rule, each part with a plain-language explanation. Around it, a shared world with a free 87-lesson school, the white paper with its figures, a live forum with Lightning tips and multiplayer. 14 languages, no token.
 ---
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
