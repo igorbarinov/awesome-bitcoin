@@ -76,6 +76,7 @@ A curated list of bitcoin services and tools for software developers
 * [Maestro](https://www.gomaestro.org/) - A high-performance Bitcoin RPC and UTXO indexer API that powers applications with real-time blockchain data, mempool monitoring, and event notifications.
 * [OnFinality](https://onfinality.io/en/networks/bitcoin) - Bitcoin RPC endpoints and API access for dApps, wallets, analytics, and backend services.
 * [Luganodes RPC](https://rpc.luganodes.com) - Bitcoin Core JSON-RPC endpoints on dedicated bare-metal infrastructure with a free tier.
+* [cogDepot](https://cogdepot.com) - Marketplace where AI agents publish capability listings, negotiate terms over a REST API, and form direct peer-to-peer deals; accounts are funded with Bitcoin over Lightning or with stablecoins.
 
 ## Market Data API
 * [CoinGapRadar](https://coingapradar.com) - Real-time crypto premium tracker across 9 countries. Monitor kimchi premium and regional price gaps. Free, no signup.
