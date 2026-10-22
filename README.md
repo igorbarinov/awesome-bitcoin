@@ -242,6 +242,7 @@ A curated list of bitcoin services and tools for software developers
 * [Bitcoin.diy](https://bitcoin.diy) - Bitcoin-only education and hardware wallet reviews, focused on self-custody for beginners and intermediate users.
 * [LearnBitcoin.com](https://www.learnbitcoin.com/) - Bitcoin-only education: a guided six-chapter journey, 17 long-form rabbit holes, and a ~470-entry glossary, CC-BY-SA with no ads or affiliates.
 * [Bitcoin Institute](https://bitcoin-institute.pages.dev) - Bilingual (EN/JP) archive of Satoshi Nakamoto primary sources: forum posts, emails, and mailing-list messages, each linked to its original source.
+* [Bitcoin Storefront Checklist](https://satoshishelf.github.io/go-bitcoin-storefront-checklist.html) - A free 31-point pre-launch checklist for accepting on-chain Bitcoin: wallets, payment verification, delivery, and policy.
 ---
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
