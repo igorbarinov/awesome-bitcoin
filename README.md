@@ -81,6 +81,7 @@ A curated list of bitcoin services and tools for software developers
 * [CoinGapRadar](https://coingapradar.com) - Real-time crypto premium tracker across 9 countries. Monitor kimchi premium and regional price gaps. Free, no signup.
 * [CoinMetrics.io](https://docs.coinmetrics.io/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
 * [CoinPaprika](https://api.coinpaprika.com) Free crypto market data API. 12,000+ coins, 350+ exchanges, tickers, OHLCV, historical prices. No API key for free tier.
+* [CryptoKeyhole](https://cryptokeyhole.com/data-access/) - Free REST API, Python, Sheets and Excel clients and MCP server for Bitcoin on-chain and market metrics computed from its own node.
 * [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc.
 * [PreReason](https://www.prereason.com) - Financial market context for AI agents across asset classes and regions, Bitcoin among them: briefings reasoned in advance, and the dated figures behind them, over MCP and REST.
 
