@@ -91,6 +91,7 @@ A curated list of bitcoin services and tools for software developers
 * [BIP32](http://bip32.org)
 
 ## Open Source Wallets
+* [BitTool Signer](https://github.com/bitbill/bittool-signer-ios) - Offline iOS signer for Bitcoin PSBTs, exchanging signing requests and signatures by QR code.
 * [Blue Wallet](https://bluewallet.io/)
 * [CoPay by BitPay](https://copay.io/)
 * [Coinb.in](https://coinb.in)
@@ -254,3 +255,4 @@ Created by BlockchainU fellows.
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Igor Barinov](https://github.com/igorbarinov/) has waived all copyright and related or neighboring rights to this work.
+
