@@ -97,6 +97,7 @@ A curated list of bitcoin services and tools for software developers
 * [Coin Wallet](https://coin.space/)
 * [Electrum](https://electrum.org/)
 * [Green](https://blockstream.com/green/)
+* [Oath Wallet](https://github.com/devdasx/oath-wallet) - Native Bitcoin and multichain wallet for iPhone and iPad.
 * [Sparrow](https://sparrowwallet.com/)
 * [Wasabi Wallet](https://wasabiwallet.io/)
 
