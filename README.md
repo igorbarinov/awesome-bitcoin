@@ -106,7 +106,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Blockchain Explorers
 * [3xpl.com](https://3xpl.com/bitcoin) - Fastest ad-free universal block explorer.
-* [Chain.so](http://chain.so)
+* [SoChain](https://sochain.com/btc) - Block explorer and API for Bitcoin, Litecoin, Dogecoin and Zcash.
 * [Blockchain.com](https://blockchain.com)
 * [Blockchair.com](https://blockchair.com/bitcoin) - Universal blockchain explorer and search engine.
 * [Blockstream.info](https://blockstream.info) - Blockchain explorer with API (mainnet, testnet and Liquid).
