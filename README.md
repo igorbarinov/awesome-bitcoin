@@ -84,6 +84,8 @@ A curated list of bitcoin services and tools for software developers
 * [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc.
 * [PreReason](https://www.prereason.com) - Financial market context for AI agents across asset classes and regions, Bitcoin among them: briefings reasoned in advance, and the dated figures behind them, over MCP and REST.
 
+* [Clometrix](https://www.clometrix.com/cite) - How much Bitcoin and Ether move in the 15 minutes after each US economic release (CPI, payrolls, FOMC, PCE, PPI), against a normal 15 minutes, since 2021. Free.
+
 ## Wallets API
 * [BitGo](https://developers.bitgo.com)
 * [Coinbase](https://developers.coinbase.com)
