@@ -96,6 +96,7 @@ A curated list of bitcoin services and tools for software developers
 * [Coinb.in](https://coinb.in)
 * [Coin Wallet](https://coin.space/)
 * [Electrum](https://electrum.org/)
+* [Fluid](https://fluidwallet.dpdns.org/)
 * [Green](https://blockstream.com/green/)
 * [Sparrow](https://sparrowwallet.com/)
 * [Wasabi Wallet](https://wasabiwallet.io/)
