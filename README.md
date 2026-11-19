@@ -78,6 +78,7 @@ A curated list of bitcoin services and tools for software developers
 * [Luganodes RPC](https://rpc.luganodes.com) - Bitcoin Core JSON-RPC endpoints on dedicated bare-metal infrastructure with a free tier.
 
 ## Market Data API
+* [AussieSats](https://aussiesats.com) - Live cost of buying Bitcoin in Australia: sats received for A$1,000 on 15 exchanges after fees and spread, checked every 5 minutes. Free JSON API, no key.
 * [CoinGapRadar](https://coingapradar.com) - Real-time crypto premium tracker across 9 countries. Monitor kimchi premium and regional price gaps. Free, no signup.
 * [CoinMetrics.io](https://docs.coinmetrics.io/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
 * [CoinPaprika](https://api.coinpaprika.com) Free crypto market data API. 12,000+ coins, 350+ exchanges, tickers, OHLCV, historical prices. No API key for free tier.
