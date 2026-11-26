@@ -114,6 +114,7 @@ A curated list of bitcoin services and tools for software developers
 * [Blockexplorer.com](https://blockexplorer.com)
 * [Smartbit](https://www.smartbit.com.au)
 * [mempool.space](https://mempool.space/) - Open source, self hostable blockchain, mempool and lightning network explorer
+* [checktxid](https://checktxid.com/check/bitcoin/) - Paste a TxID and get a plain-English status: confirmed, stuck (with fee-bump advice) or not found. Also covers 50+ other networks.
 
 ## C Libraries
 * [libsecp256k1](https://github.com/bitcoin-core/secp256k1)
