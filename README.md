@@ -103,6 +103,7 @@ A curated list of bitcoin services and tools for software developers
 ## Privacy projects
 * [Joinmarket](https://github.com/JoinMarket-Org/joinmarket-clientserver) - Decentralized CoinJoin implementation
 * [Jam](https://jamapp.org/) - User friendly frontend for Joinmarket
+* [Newsatoshi](https://github.com/theguysaccount/newsatoshi-rfc0021) - Post-quantum shielded electronic cash merge-mined via Bitcoin AuxPoW (`chainid = 20051`) with pure FIPS SHA-2/SHA-384 STARKs, Lean 4 mechanized spend proofs, and zero-custody BIP-199 Bitcoin P2WSH & Lightning BOLT-11 SHA-256 HTLC swaps
 
 ## Blockchain Explorers
 * [3xpl.com](https://3xpl.com/bitcoin) - Fastest ad-free universal block explorer.
