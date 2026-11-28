@@ -56,6 +56,7 @@ A curated list of bitcoin services and tools for software developers
 * [dont-trust-verify](https://dont-trust-verify.com) - Bitcoin-only client-side tools and self-custody education: 22 calculators, validators and decoders (BIP-39 validator, tx-stuck checker, fee estimator, wallet installer SHA-256 verifier, self-custody score quiz), plus primary-sourced guides and hardware wallet reviews. No signup, no tracking, EN + TH.
 * [BackPoW](https://backpow.com/Bitcoin) - Solo block odds, cost of production and break-even electricity per rig, from live difficulty.
 * [Kandle](https://github.com/Kernel-Hunter/kandle) - Open-source browser charting app for Bitcoin and other crypto, stocks and forex, with live exchange data, indicators, drawing tools, alerts, bar replay and scripted strategy backtests.
+* [Iris](https://iriscan.app/) - Bitcoin address investigation: who funded an address, its counterparties and where the coins went, including through Wasabi, Whirlpool and JoinMarket CoinJoins, with a cited source for each label.
 
 ## Blockchain API and Web services
 * [3xpl.com](https://3xpl.com/) - Fastest ad-free universal block explorer.
@@ -243,6 +244,9 @@ A curated list of bitcoin services and tools for software developers
 * [Bitcoin.diy](https://bitcoin.diy) - Bitcoin-only education and hardware wallet reviews, focused on self-custody for beginners and intermediate users.
 * [LearnBitcoin.com](https://www.learnbitcoin.com/) - Bitcoin-only education: a guided six-chapter journey, 17 long-form rabbit holes, and a ~470-entry glossary, CC-BY-SA with no ads or affiliates.
 * [Bitcoin Institute](https://bitcoin-institute.pages.dev) - Bilingual (EN/JP) archive of Satoshi Nakamoto primary sources: forum posts, emails, and mailing-list messages, each linked to its original source.
+* [IoT Financial](https://iotfinancial.net/) - Free guides and open-formula tools for small companies holding bitcoin: allocation sizing, custody options and a treasury policy generator (UK and US).
+* [Hardware Wallet Security Incident Tracker](https://walletinsights.io/en/security-incidents/) - Dated record of hardware wallet security incidents (vulnerabilities, supply-chain tampering, vendor data breaches), each with its sources, the affected models and whether it is fixed. Open data under CC BY 4.0.
+
 ---
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
