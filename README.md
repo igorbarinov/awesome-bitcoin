@@ -56,6 +56,8 @@ A curated list of bitcoin services and tools for software developers
 * [dont-trust-verify](https://dont-trust-verify.com) - Bitcoin-only client-side tools and self-custody education: 22 calculators, validators and decoders (BIP-39 validator, tx-stuck checker, fee estimator, wallet installer SHA-256 verifier, self-custody score quiz), plus primary-sourced guides and hardware wallet reviews. No signup, no tracking, EN + TH.
 * [BackPoW](https://backpow.com/Bitcoin) - Solo block odds, cost of production and break-even electricity per rig, from live difficulty.
 * [btc-toolkit](https://github.com/devdavidejesus/btc-toolkit) - Zero-dependency Python CLI to read and verify Bitcoin from the terminal: OP_RETURN messages and inscriptions, raw transaction decoding, offline address validation, and Merkle-proof verification against the block's proof of work. Install with pip, pipx, uv or Homebrew.
+* [Kandle](https://github.com/Kernel-Hunter/kandle) - Open-source browser charting app for Bitcoin and other crypto, stocks and forex, with live exchange data, indicators, drawing tools, alerts, bar replay and scripted strategy backtests.
+* [Iris](https://iriscan.app/) - Bitcoin address investigation: who funded an address, its counterparties and where the coins went, including through Wasabi, Whirlpool and JoinMarket CoinJoins, with a cited source for each label.
 
 ## Blockchain API and Web services
 * [3xpl.com](https://3xpl.com/) - Fastest ad-free universal block explorer.
@@ -83,7 +85,7 @@ A curated list of bitcoin services and tools for software developers
 * [CoinMetrics.io](https://docs.coinmetrics.io/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
 * [CoinPaprika](https://api.coinpaprika.com) Free crypto market data API. 12,000+ coins, 350+ exchanges, tickers, OHLCV, historical prices. No API key for free tier.
 * [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc.
-* [PreReason](https://www.prereason.com) - Pre-analyzed Bitcoin market briefings via REST API. Covers BTC price, hash rate, difficulty, mining production costs, treasury holdings (30 public companies), and macro signals that move Bitcoin (Fed balance sheet, M2, Treasury yields). Returns trend direction, confidence scores, and regime classification instead of raw numbers. Free tier available.
+* [PreReason](https://www.prereason.com) - Financial market context for AI agents across asset classes and regions, Bitcoin among them: briefings reasoned in advance, and the dated figures behind them, over MCP and REST.
 
 ## Wallets API
 * [BitGo](https://developers.bitgo.com)
@@ -107,7 +109,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Blockchain Explorers
 * [3xpl.com](https://3xpl.com/bitcoin) - Fastest ad-free universal block explorer.
-* [Chain.so](http://chain.so)
+* [SoChain](https://sochain.com/btc) - Block explorer and API for Bitcoin, Litecoin, Dogecoin and Zcash.
 * [Blockchain.com](https://blockchain.com)
 * [Blockchair.com](https://blockchair.com/bitcoin) - Universal blockchain explorer and search engine.
 * [Blockstream.info](https://blockstream.info) - Blockchain explorer with API (mainnet, testnet and Liquid).
@@ -243,6 +245,9 @@ A curated list of bitcoin services and tools for software developers
 * [Bitcoin.diy](https://bitcoin.diy) - Bitcoin-only education and hardware wallet reviews, focused on self-custody for beginners and intermediate users.
 * [LearnBitcoin.com](https://www.learnbitcoin.com/) - Bitcoin-only education: a guided six-chapter journey, 17 long-form rabbit holes, and a ~470-entry glossary, CC-BY-SA with no ads or affiliates.
 * [Bitcoin Institute](https://bitcoin-institute.pages.dev) - Bilingual (EN/JP) archive of Satoshi Nakamoto primary sources: forum posts, emails, and mailing-list messages, each linked to its original source.
+* [IoT Financial](https://iotfinancial.net/) - Free guides and open-formula tools for small companies holding bitcoin: allocation sizing, custody options and a treasury policy generator (UK and US).
+* [Hardware Wallet Security Incident Tracker](https://walletinsights.io/en/security-incidents/) - Dated record of hardware wallet security incidents (vulnerabilities, supply-chain tampering, vendor data breaches), each with its sources, the affected models and whether it is fixed. Open data under CC BY 4.0.
+
 ---
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
